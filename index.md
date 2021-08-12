@@ -1,4 +1,5 @@
 ---
+permalink: /
 ---
 
 # BF/BI510: Institutional Racism in Health and Science
@@ -23,7 +24,18 @@ eradicate the presence of racism in our institutions.
 
 **Time:** MWF 2:30-3:20
 
-## Instructors
+<a id="contents"></a>Contents:
+* [Instructors](/#instructors)
+* [Course Objectives](/#objectives)
+* [Prerequisites](/#prerequisites)
+* [Schedule](/#schedule)
+* [The Instrument](/#the-instrument)
+* [Grading](/#grading)
+* [Required Texts](/#required-texts)
+* [Class Resources](/#resources)
+
+<a id="instructors">
+## Instructors <a class="tiny-link" href="#contents">Top</a>
 
 ### Lead Instructor
 Melisa Osborne, Ph.D. (she/her)
@@ -48,7 +60,8 @@ Devlin Moyer - dcmoyer at BU dot edu
 * TJ McKenna
 * Theresa Rueger
 
-## Course Objectives
+<a id="objectives">
+## Course Objectives <a class="tiny-link" href="#contents">Top</a>
 
 The pedagogical goal of this course is to develop student competencies in
 discriminating between fact-based conclusions and unsupported pseudoscience and
@@ -69,7 +82,8 @@ look at issues of ableism, sexism, and gender discrimination.  BF/BI510 will
 prepare students to look at the scientific and popular literature and dismantle
 systemic inequity from its foundations. 
 
-## Prerequisites
+<a id="prerequisites">
+## Prerequisites <a class="tiny-link" href="#">Top</a>
 
 **Graduate Student Prerequisites:** MSc./PhD. program standing in
 Bioinformatics, or MSc./PhD. program standing in Biology, or MSc./M.A. standing
@@ -78,7 +92,8 @@ in BU Wheelock, or consent of instructor.
 **Undergraduate Prerequisites:** CAS BI 107/108 OR CAS BI 126 and senior
 standing, or consent of instructor.
 
-## Course Schedule
+<a id="schedule">
+## Course Schedule <a class="tiny-link" href="#">Top</a>
 
 <table>
   <tr>
@@ -107,9 +122,11 @@ standing, or consent of instructor.
 {% endfor %}
 </table>
 
-## The Instrument
+<a id="the-instrument">
+## The Instrument <a class="tiny-link" href="#">Top</a>
 
-## Grading
+<a id="grading">
+## Grading <a class="tiny-link" href="#">Top</a>
 
 **Weekly annotations (50% of grade):** Students will submit applications of the
 instrument on weekly readings that will be used to assess participation and
@@ -134,7 +151,8 @@ will be shared with the class (exact details will depend on formats preferred
 by students), and a written report will be due by final exam time.  Reports
 will be submitted via the Perusall site.
 
-## Required texts
+<a id="required-texts">
+## Required texts <a class="tiny-link" href="#">Top</a>
 
 Course texts will be available for purchase via the Boston University
 bookstore. 
@@ -146,7 +164,8 @@ This course will use open access primary research articles as the for many
 required readings. PDFs of all articles will be made available on the course
 Perusall website. 
 
-## Resources/Support/How to Succeed in This Course
+<a id="resources">
+## Resources/Support/How to Succeed in This Course <a class="tiny-link" href="#">Top</a>
 
 ### Office Hours
 
@@ -184,7 +203,8 @@ ones; but you are welcome to tell me and I will listen. Even if I can’t help
 you directly, it is likely that I know someone who can. If you need help or
 more information, please ask, and I will work with you. 
 
-## Community of Learning: Class and University Policies 
+<a id="policies">
+## Community of Learning: Class and University Policies <a class="tiny-link" href="#">Top</a>
 
 ### Diversity, Inclusion, Anti-racism
 
@@ -266,8 +286,6 @@ including, but not limited to, posting of materials online in forums or
 websites, is a copyright violation and a violation of the academic
 conduct code. Additionally, materials submitted for course credit (papers,
 exams, etc.) are similarly not permitted to be used or posted. 
-
-## Other important policies: 
 
 ### COVID-19 Responsibilities and Regulations
 
