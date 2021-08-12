@@ -1,4 +1,8 @@
-## BF/BI510: Institutional Racism in Health and Science
+---
+---
+
+# BF/BI510: Institutional Racism in Health and Science
+
 
 Historically, scientific theories and methodologies have been inappropriately,
 and sometimes fraudulently, employed to provide justification for establishing
