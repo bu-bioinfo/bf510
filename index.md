@@ -4,7 +4,7 @@ Historically, scientific theories and methodologies have been inappropriately,
 and sometimes fraudulently, employed to provide justification for establishing
 and maintaining social, economic, and racial hierarchies, resulting in
 centuries of dehumanizing and unethical practices toward certain groups,
-especially against Black, Indigenous, and People of Color (BIPOC).
+especially against black, Indigenous, and people of color (BIPOC).
 Unfortunately, many of these pernicious ideas persist, such that they hinder
 BIPOC's opportunities in Science and exacerbate their health outcomes. 
 
