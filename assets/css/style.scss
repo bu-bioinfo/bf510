@@ -2,3 +2,22 @@
 ---
 
 @import "{{ site.theme }}";
+
+@import url("https://fonts.googleapis.com/css?family=Gowun+Batang:400,700");
+
+$primary: #70a9dd;
+
+h1, h2, h3, p, div, .header, h1.header, header {
+    font-family: "Gowun Batang";
+}
+
+a {
+    color: #{$primary};
+}
+
+header {
+    background-color: #{$primary};
+    border: 1px solid #{$primary};
+    font-style: bold;
+}
+
