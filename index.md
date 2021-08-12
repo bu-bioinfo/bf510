@@ -18,7 +18,9 @@ outcomes, and presents ideas, approaches, and practices to ameliorate and
 eradicate the presence of racism in our institutions.
 
 **Semester:** Fall 2021
+
 **Location:** PHO 202
+
 **Time:** MWF 2:30-3:20
 
 ## Instructors
