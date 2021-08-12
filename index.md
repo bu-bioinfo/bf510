@@ -80,7 +80,32 @@ standing, or consent of instructor.
 
 ## Course Schedule
 
-TODO
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Lec #</th>
+    <th>Topic</th>
+    <th>Assignment</th>
+  </tr>
+{% for lec in site.data.schedule %}
+  <tr>
+    <td>{{ lec.Date }}</td>
+    <td>{{ lec.Lec }}</td>
+    <td>
+        {%- if lec.Lec != nil -%}
+            <a href="lectures/{{ lec["Topic Tag"] }}.html">{{ lec.Topic }}</a>
+        {%- else -%}
+            {{ lec.Topic }}
+        {%- endif -%}
+    </td>
+    <td>
+        {%- if lec.Assignment != nil -%}
+            <a href="assignments/{{ lec["Assignment Tag"] }}.html">{{ lec.Assignment }}</a>
+        {%- endif -%}
+    </td>
+  </tr>
+{% endfor %}
+</table>
 
 ## The Instrument
 
@@ -276,3 +301,9 @@ similar materials both violates copyright and interferes with the academic
 mission of the College, and is therefore prohibited in this class and will be
 considered a violation of the student code of responsibility that is subject to
 academic sanctions.
+
+## License
+
+![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
