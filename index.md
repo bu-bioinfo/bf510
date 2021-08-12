@@ -4,9 +4,9 @@ Historically, scientific theories and methodologies have been inappropriately,
 and sometimes fraudulently, employed to provide justification for establishing
 and maintaining social, economic, and racial hierarchies, resulting in
 centuries of dehumanizing and unethical practices toward certain groups,
-especially against Black, Indigenous, and People of Color (BIPOC).
+especially against black, Indigenous, and people of color (BIPOC).
 Unfortunately, many of these pernicious ideas persist, such that they hinder
-BIPOC's opportunities in Science and exacerbate their health outcomes. 
+opportunities of BIPOC in Science and exacerbate their health outcomes. 
 
 This course traces the historical roots of racism in science through to its
 modern manifestations, examines the harmful consequences on victims' health
@@ -24,7 +24,7 @@ Melisa Osborne, Ph.D. (she/her)
 
 Research Scientist and Segre Lab Manager, Bioinformatics Program
 
-Research Assistant Professor, Biology
+Research Assistant Professor, Graduate Program in Bioinformatics
 
 * *Office Location:* Segre Lab (LSEB 9th floor; LSEB Room 331/332)
 * *Office Hours:* TBD
