@@ -21,23 +21,26 @@ eradicate the presence of racism in our institutions.
 
 ### Lead Instructor
 Melisa Osborne, Ph.D. (she/her)
+
 Research Scientist and Segre Lab Manager, Bioinformatics Program
+
 Research Assistant Professor, Biology
-*Office Location:* Segre Lab (LSEB 9th floor; LSEB Room 331/332)
-*Office Hours:* TBD
-*Office Phone:* TBD
-*Email:* melosbor at BU dot edu
-*Twitter:* @MelisaLKO
+
+* *Office Location:* Segre Lab (LSEB 9th floor; LSEB Room 331/332)
+* *Office Hours:* TBD
+* *Office Phone:* TBD
+* *Email:* melosbor at BU dot edu
+* *Twitter:* @MelisaLKO
 
 ### Teaching Fellow
-Devlin Moyer
-dcmoyer at BU dot edu
+Devlin Moyer - dcmoyer at BU dot edu
 
-**Co-instructors:**
-Felicity Crawford
-Adam Labadorf
-TJ McKenna
-Theresa Rueger
+### Co-instructors
+
+* Felicity Crawford
+* Adam Labadorf
+* TJ McKenna
+* Theresa Rueger
 
 ## Course Objectives
 
