@@ -5,19 +5,35 @@
 
 @import url("https://fonts.googleapis.com/css?family=Gowun+Batang:400,700");
 
-$primary: #70a9dd;
+$blue: #70a9dd;
+$med-dark-blue: #5a89b3;
+$dark-blue: #456888;
+$very-dark-blue: #2f475d;
+$midnight: #1a2733;
+$fuchia: #da70dd;
+$orange: #dda470;
+$green: #72dd70;
 
-h1, h2, h3, p, div, .header, h1.header, header {
+h1, h2, h3, p, div, .header, h1.header, header, table, th, td {
     font-family: "Gowun Batang";
 }
 
+th {
+    background-color: #{$blue};
+}
+
+td {
+    background-color: #dddddd;
+}
+
 a {
-    color: #{$primary};
+    color: #{$dark-blue};
+    font-style: bold;
 }
 
 header {
-    background-color: #{$primary};
-    border: 1px solid #{$primary};
+    background-color: #{$blue};
+    border: 1px solid #{$blue};
     font-style: bold;
     margin: 0px;
 }
