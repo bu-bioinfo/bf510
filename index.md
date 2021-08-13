@@ -39,7 +39,7 @@ eradicate the presence of racism in our institutions.
 ### Lead Instructor
 Melisa Osborne, Ph.D. (she/her)
 
-Research Scientist and Segre Lab Manager, Bioinformatics Program
+Research Scientist and Segrè Lab Manager, Bioinformatics Program
 
 Research Assistant Professor, Graduate Program in Bioinformatics
 
