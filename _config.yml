@@ -25,12 +25,22 @@ plugins:
 defaults:
   -
     scope:
-      path: ""
+      path: "_lectures"
     values:
-      layout: "page"
+      layout: "lecture"
+  -
+    scope:
+      path: "_assignments"
+    values:
+      layout: "assignment"
   -
     scope:
         path: "index.md"
     values:
         layout: "default"
+collections:
+    lectures:
+        output: true
+    assignments:
+        output: true
 
