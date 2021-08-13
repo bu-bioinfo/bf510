@@ -34,6 +34,7 @@ eradicate the presence of racism in our institutions.
 * [Required Texts](/#required-texts)
 * [Class Resources](/#resources)
 
+{{ site.url }}
 <a id="instructors">
 ## Instructors <a class="tiny-link" href="#contents">Top</a>
 
