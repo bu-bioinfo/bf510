@@ -25,18 +25,16 @@ eradicate the presence of racism in our institutions.
 **Time:** MWF 2:30-3:20
 
 <a id="contents"></a>Contents:
-* [Instructors](/#instructors)
-* [Course Objectives](/#objectives)
-* [Prerequisites](/#prerequisites)
-* [Schedule](/#schedule)
-* [The Instrument](/#the-instrument)
-* [Grading](/#grading)
-* [Required Texts](/#required-texts)
-* [Class Resources](/#resources)
+* <a href="#instructors">Instructors</a>
+* <a href="#objectives">Course Objectives</a>
+* <a href="#prerequisites">Prerequisites</a>
+* <a href="#schedule">Schedule</a>
+* <a href="#the-instrument">The Instrument</a>
+* <a href="#grading">Grading</a>
+* <a href="#resources">Resources</a>
 
-{{ site.url }}
 <a id="instructors">
-## Instructors <a class="tiny-link" href="#contents">Top</a>
+## Instructors <a class="tiny-link" href="#">Top</a>
 
 ### Lead Instructor
 Melisa Osborne, Ph.D. (she/her)
@@ -62,7 +60,7 @@ Devlin Moyer - dcmoyer at BU dot edu
 * Theresa Rueger
 
 <a id="objectives">
-## Course Objectives <a class="tiny-link" href="#contents">Top</a>
+## Course Objectives <a class="tiny-link" href="#">Top</a>
 
 The pedagogical goal of this course is to develop student competencies in
 discriminating between fact-based conclusions and unsupported pseudoscience and
