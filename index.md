@@ -50,7 +50,9 @@ Research Assistant Professor, Graduate Program in Bioinformatics
 * *Twitter:* @MelisaLKO
 
 ### Teaching Fellow
-Devlin Moyer - dcmoyer at BU dot edu
+Devlin Moyer (he/him)
+Office Location: Segre Lab (LSEB 9th floor)
+Email: dcmoyer at BU dot edu
 
 ### Co-instructors
 
@@ -151,7 +153,7 @@ by students), and a written report will be due by final exam time.  Reports
 will be submitted via the Perusall site.
 
 <a id="required-texts">
-## Required texts <a class="tiny-link" href="#">Top</a>
+## Required Texts <a class="tiny-link" href="#">Top</a>
 
 Course texts will be available for purchase via the Boston University
 bookstore. 
@@ -180,7 +182,7 @@ students with disabilities. If you have a disability, you are strongly
 encouraged to register with this office. Lecture hall and discussion rooms are
 accessible and ADA compliant.
 
-### Learning and testing accommodation
+### Learning and Testing Accommodation
 Boston University complies with the
 Americans with Disabilities Act and Section 504 of the Rehabilitation Act. If
 you are a student who needs academic accommodations because of a documented
