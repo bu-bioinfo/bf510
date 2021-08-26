@@ -9,7 +9,7 @@ Historically, scientific theories and methodologies have been inappropriately,
 and sometimes fraudulently, employed to provide justification for establishing
 and maintaining social, economic, and racial hierarchies, resulting in
 centuries of dehumanizing and unethical practices toward certain groups,
-especially against black, Indigenous, and people of color (BIPOC).
+especially against Black and Indigenous People of Color (BIPOC).
 Unfortunately, many of these pernicious ideas persist, such that they hinder
 opportunities of BIPOC in Science and exacerbate their health outcomes. 
 
@@ -51,8 +51,10 @@ Research Assistant Professor, Graduate Program in Bioinformatics
 
 ### Teaching Fellow
 Devlin Moyer (he/him)
-Office Location: Segre Lab (LSEB 9th floor)
-Email: dcmoyer at BU dot edu
+  
+3rd Year PhD Student - Graduate Program in Bioinformatics
+* *Office Location: Segre Lab (LSEB 9th floor)
+* *Email: dcmoyer at BU dot edu
 
 ### Co-instructors
 
