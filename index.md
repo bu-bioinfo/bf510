@@ -53,8 +53,8 @@ Research Assistant Professor, Graduate Program in Bioinformatics
 Devlin Moyer (he/him)
   
 3rd Year PhD Student - Graduate Program in Bioinformatics
-* *Office Location: Segre Lab (LSEB 9th floor)
-* *Email: dcmoyer at BU dot edu
+* *Office Location:* Segre Lab (LSEB 9th floor)
+* *Email:* dcmoyer at BU dot edu
 
 ### Co-instructors
 
