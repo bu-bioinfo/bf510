@@ -51,7 +51,7 @@ Research Assistant Professor, Graduate Program in Bioinformatics
 
 ### Teaching Fellow
 Devlin Moyer (he/him)
-  
+
 3rd Year PhD Student - Graduate Program in Bioinformatics
 * *Office Location:* Segre Lab (LSEB 9th floor)
 * *Email:* dcmoyer at BU dot edu
@@ -128,8 +128,20 @@ standing, or consent of instructor.
 <a id="the-instrument">
 ## The Instrument <a class="tiny-link" href="#">Top</a>
 
+![The Instrument](assets/images/the_instrument.png)
+
 “The Instrument” is a tool we are developing in this class to help identify
-hidden biases in a text. 
+hidden biases in a text. It is a structured approach to reading a text that has
+the following phases:
+
+1. **Annotate** -  label key words, phrases, or sentences with a controlled set
+   of hashtags
+2. **Analyze** - answer a set of short answer questions designed to identify key
+   aspects of the text
+3. **Synthesize** - write a short narrative reflection about the article guided
+   by a set of scaffolding questions
+
+
 
 <a id="grading">
 ## Grading <a class="tiny-link" href="#">Top</a>
@@ -168,7 +180,7 @@ by Angela Saini. Beacon Press, Boston, MA 2019. ISBN-13: 978-0-8070-2842-1
 
 This course will use open access primary research articles as the for many
 required readings. PDFs of all articles will be made available on the course
-Perusall website. 
+Perusall website.
 
 <a id="resources">
 ## Resources/Support/How to Succeed in This Course <a class="tiny-link" href="#">Top</a>
@@ -198,7 +210,7 @@ accommodations, contact the Office of Disability and Access Services. Letters
 of accommodations should be presented as soon as possible to ensure that
 student needs are addressed from the start of the course. Instructors are not
 able to provide accommodations without documentation from Boston University's
-Office of Disability and Access Services. 
+Office of Disability and Access Services.
 
 ### Support from the Instructor
 
@@ -207,7 +219,7 @@ trouble, I will not judge you or think less of you. You do not owe me an
 explanation of your health (physical or mental) or the health of your loved
 ones; but you are welcome to tell me and I will listen. Even if I can’t help
 you directly, it is likely that I know someone who can. If you need help or
-more information, please ask, and I will work with you. 
+more information, please ask, and I will work with you.
 
 <a id="policies">
 ## Community of Learning: Class and University Policies <a class="tiny-link" href="#">Top</a>
@@ -218,15 +230,15 @@ This course is a judgement free and
 anti-racist learning environment. Our cohort consists of students from a wide
 variety of social identities and life circumstances. Everyone will treat one
 another with respect and consideration at all times or be asked to leave the
-classroom (physical or virtual). 
+classroom (physical or virtual).
 
 The instructors of this course pledge to:
 
-1. Learn and correctly pronounce everyone’s preferred name/nickname 
+1. Learn and correctly pronounce everyone’s preferred name/nickname
 
-2. Use preferred pronouns for those who wish to indicate this to me/the class 
+2. Use preferred pronouns for those who wish to indicate this to me/the class
 
-3. Work to accommodate/prevent language related challenges (for instance I will avoid the use of idioms and slang) 
+3. Work to accommodate/prevent language related challenges (for instance I will avoid the use of idioms and slang)
 
 ### Attendance
 
@@ -236,7 +248,7 @@ attendance via Zoom will be made available for each session as well as
 recordings of the sessions. In a remote setting, children/pets/guests are
 welcome to attend as long as you are considerate of other learners – I suggest
 keeping your microphone muted when not speaking to others to avoid outside
-noise for the rest of the class. 
+noise for the rest of the class.
 
 ### Policy on Religious Observances
 
@@ -246,7 +258,7 @@ on Religious Observance
 (http://www.bu.edu/ctl/university-policies/policy-on-religious-observance/).
 Please make sure to communicate about religious observances as far in advance
 as possible (and no later than one week before the observance, per university
-policy) so that accommodations can be made. 
+policy) so that accommodations can be made.
 
 ### Assignment Completion & Late Work
 
@@ -255,7 +267,7 @@ scheduled due dates by 11.59.59 EST via Persulla dropboxes or alternately they
 may be emailed to melosbor@bu.edu. Assessment and feedback will be provided
 via Perusall grading function. A late penalty of -10% per day will be
 assessed, though deadline extensions are available on a case by case basis (the
-earlier the instructor is informed of conflicts/extension needs, the better). 
+earlier the instructor is informed of conflicts/extension needs, the better).
 
 ### Illness and Assignment Deadlines
 
@@ -268,7 +280,7 @@ allow for absences of short to moderate length due to illness. Please make
 sure to contact your instructor about any absences that will last beyond a
 couple of days. In the case of a prolonged illness that is not already covered
 by the course absence policies, we will work with the CAS Dean's office to
-determine the best course of action for any given student. 
+determine the best course of action for any given student.
 
 ### Academic Conduct
 
@@ -291,7 +303,7 @@ your personal use in the course only. Any other use of these materials
 including, but not limited to, posting of materials online in forums or
 websites, is a copyright violation and a violation of the academic
 conduct code. Additionally, materials submitted for course credit (papers,
-exams, etc.) are similarly not permitted to be used or posted. 
+exams, etc.) are similarly not permitted to be used or posted.
 
 ### COVID-19 Responsibilities and Regulations
 
@@ -307,7 +319,7 @@ regarding sheltering in place while feeling ill, testing, quarantining, social
 contacts, and gatherings. If you cannot follow these guidelines, be responsible
 and respectful: do not show up for in-person learning. Do not put your
 classmates, staff and instructors in danger. Do your learning remotely to make
-it possible for us to safely offer in-person learning to others. 
+it possible for us to safely offer in-person learning to others.
 
 ### Copyright Laws and Protection
 
