@@ -58,10 +58,10 @@ Devlin Moyer (he/him)
 
 ### Co-instructors
 
-* Felicity Crawford
-* Adam Labadorf
-* TJ McKenna
-* Theresa Rueger
+* Felicity Crawford (she/her)
+* Adam Labadorf (he/him)
+* TJ McKenna (he/him)
+* Theresa Rueger (she/her)
 
 <a id="objectives">
 ## Course Objectives <a class="tiny-link" href="#">Top</a>
@@ -158,10 +158,10 @@ will be submitted via the Perusall site.
 ## Required Texts <a class="tiny-link" href="#">Top</a>
 
 Course texts will be available for purchase via the Boston University
-bookstore. 
+bookstore.
 
-“Superior: The Return of Race Science” by Angela Saini. Beacon Press, Boston,
-MA 2019. ISBN-13: 978-0-8070-2842-1 
+“[Superior: The Return of Race Science](https://www.goodreads.com/book/show/42042093-superior)”
+by Angela Saini. Beacon Press, Boston, MA 2019. ISBN-13: 978-0-8070-2842-1
 
 This course will use open access primary research articles as the for many
 required readings. PDFs of all articles will be made available on the course
