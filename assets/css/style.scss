@@ -18,6 +18,10 @@ h1, h2, h3, p, div, .header, h1.header, header, table, th, td {
     font-family: "Gowun Batang";
 }
 
+p, li, a, td {
+    font-size: 13pt;
+}
+
 th {
     background-color: #{$blue};
 }
