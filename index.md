@@ -128,6 +128,9 @@ standing, or consent of instructor.
 <a id="the-instrument">
 ## The Instrument <a class="tiny-link" href="#">Top</a>
 
+“The Instrument” is a tool we are developing in this class to help identify
+hidden biases in a text. 
+
 <a id="grading">
 ## Grading <a class="tiny-link" href="#">Top</a>
 
