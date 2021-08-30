@@ -141,7 +141,8 @@ the following phases:
 3. **Synthesize** - write a short narrative reflection about the article guided
    by a set of scaffolding questions
 
-
+We will apply The Instrument to readings throughout the course. A more detailed
+description of The Instrument is found [here](the_instrument.html).
 
 <a id="grading">
 ## Grading <a class="tiny-link" href="#">Top</a>
