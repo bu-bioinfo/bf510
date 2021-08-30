@@ -12,7 +12,7 @@ potentially hidden biases in a text.
 Claims made in texts, be they news, opinion, or scientific articles, always
 presume some set of assumptions are true. These assumptions may be explicitly
 stated within the text itself, or implicitly held by the author. In any case,
-the validity or veracity of the assumptions underlying a claim are not always
+the validity and veracity of the assumptions underlying a claim are not always
 obvious to the reader and require exploration and additional investigation to
 elucidate. This process of gathering information to place a text in its broader
 context to better understand it (sometimes called "deep", "slow", or "close"
@@ -34,10 +34,24 @@ practice.
 
 Another key component of the scientific method is data. Generally speaking, data
 are gathered using instruments that measure specific quantities in a
-standardized way that allows them to be meaningfully compared. For example,
+standardized way thus allowing them to be meaningfully compared. For example,
 a ruler measures distance using a standardized scale, e.g. inches, such that any
 measurement taken with a ruler of the same scale may be compared, regardless of
-where or by whom the ruler is used.
+when or where the ruler is used.
+
+“The Instrument” combines these ideas of developing a systematic approach to
+critical analysis of text and using a standardized set of "measurements" into
+a tool for identifying and understanding a text with the goal of identifying
+potentially hidden biases. The instrument is intended to simultaneously meet
+the following goals:
+
+1. **Help you develop critical analysis skills** when reading texts.
+2. **Help you build an intuition for identifying bias and opinions** in texts.
+3. **Measure how your skills from 1 & 2 change over the course**
+4. **Create a dataset of annotations for a corpus of documents** that capture the
+   specific instances of bias-related aspects of the component texts
+   
+## “The Instrument” Structure
 
 ![The Instrument](assets/images/the_instrument.png)
 
