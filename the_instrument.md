@@ -53,8 +53,6 @@ the following goals:
    
 ## “The Instrument” Structure
 
-![The Instrument](assets/images/the_instrument.png)
-
 It is a structured approach to reading a text that has the following phases:
 
 1. **Annotate** -  label key words, phrases, or sentences with a controlled set
@@ -63,3 +61,8 @@ It is a structured approach to reading a text that has the following phases:
    aspects of the text
 3. **Synthesize** - write a short narrative reflection about the article guided
    by a set of scaffolding questions
+
+We can think of these phases as moving from a detailed, literal examination to a
+more conceptual understanding of the text, illustrated below.
+
+![The Instrument](assets/images/the_instrument.png)
