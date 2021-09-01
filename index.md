@@ -245,7 +245,7 @@ The instructors of this course pledge to:
 ### Attendance
 
 Attendance is not used as a criterion for assessment in this course. This a primarily in-person course and lectures and discussion are held at Photonics Room 202.  
-Zoom links and recordings will be made availabel during/after each session to accomodate learners with an exemption due to MS status (Biology/Bioinfo). In a remote setting, children/pets/guests are welcome to attend as long as you are considerate of other learners – I suggest keeping your microphone muted when not speaking to others to avoid outside noise for the rest of the class.
+Zoom links and recordings will be made available during/after each session to accomodate remote MS learners (Biology/Bioinfo).
 
 ### Policy on Religious Observances
 
