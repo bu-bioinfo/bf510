@@ -136,8 +136,10 @@ the following phases:
 
 1. **Annotate** -  label key words, phrases, or sentences with a controlled set
    of hashtags
+
 2. **Analyze** - answer a set of short answer questions designed to identify key
    aspects of the text
+
 3. **Synthesize** - write a short narrative reflection about the article guided
    by a set of scaffolding questions
 
@@ -155,13 +157,13 @@ assigned to readings throughout the semester.
 
 **Peer review activities (10% of grade):** Students will review their peers’
 submissions for parts of the final project and learn how to provide
-constructive feedback on a written abstract. 
+constructive feedback on a written abstracts. 
 
 **Final Project (20% of grade):**  Each student will complete a final project
 and report (~5 pages) about an aspect of systemic racism in health and science
 of their own choosing.  The Final Project Assignment will be posted on the
-course website in the first weeks of class, and one lecture during Week 7 will
-be dedicated to project ideas and expectations.  The assignment will involve
+course website in the first weeks of class, and class time will be dedicated mid-semester to discussing
+project ideas and expectations.  The assignment will involve
 creating a short presentation (possible formats include a podcast, narrated
 poster, or YouTube video) and submission of a written report detailing the
 motivation and logic and research behind your project of choice.  Presentations
@@ -172,8 +174,8 @@ will be submitted via the Perusall site.
 <a id="required-texts">
 ## Required Texts <a class="tiny-link" href="#">Top</a>
 
-Course texts will be available for purchase via the Boston University
-bookstore.
+Course texts are available for purchase via the Boston University
+bookstore and are on reserve at Mugar Library.  Scanned PDFs of chapters are also available through Perusall.
 
 “[Superior: The Return of Race Science](https://www.goodreads.com/book/show/42042093-superior)”
 by Angela Saini. Beacon Press, Boston, MA 2019. ISBN-13: 978-0-8070-2842-1
@@ -242,13 +244,8 @@ The instructors of this course pledge to:
 
 ### Attendance
 
-Attendance is not used as a criterion for assessment in this
-course. Attendance in-person is encouraged whenever possible, however virtual
-attendance via Zoom will be made available for each session as well as
-recordings of the sessions. In a remote setting, children/pets/guests are
-welcome to attend as long as you are considerate of other learners – I suggest
-keeping your microphone muted when not speaking to others to avoid outside
-noise for the rest of the class.
+Attendance is not used as a criterion for assessment in this course. This a primarily in-person course and lectures and discussion are held at Photonics Room 202.  
+Zoom links and recordings will be made availabel during/after each session to accomodate learners with an exemption due to MS status (Biology/Bioinfo). In a remote setting, children/pets/guests are welcome to attend as long as you are considerate of other learners – I suggest keeping your microphone muted when not speaking to others to avoid outside noise for the rest of the class.
 
 ### Policy on Religious Observances
 
@@ -263,7 +260,7 @@ policy) so that accommodations can be made.
 ### Assignment Completion & Late Work
 
 Assignment can be submitted on their
-scheduled due dates by 11.59.59 EST via Persulla dropboxes or alternately they
+scheduled due dates by 11.59.59 EST via Perusalldropboxes or alternately they
 may be emailed to melosbor@bu.edu. Assessment and feedback will be provided
 via Perusall grading function. A late penalty of -10% per day will be
 assessed, though deadline extensions are available on a case by case basis (the
