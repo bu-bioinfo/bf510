@@ -7,6 +7,14 @@ permalink: /the_instrument
 “The Instrument” is a tool we are developing in this class to help identify
 potentially hidden biases in a text.
 
+The Instrument is intended to simultaneously meet the following goals:
+
+1. **Help you develop critical analysis skills** when reading texts.
+2. **Help you build an intuition for identifying bias and opinions** in texts.
+3. **Measure how your skills from 1 & 2 change over the course**
+4. **Create a dataset of annotations for a corpus of documents** that capture the
+   specific instances of bias-related aspects of the component texts
+
 ## Background & Rationale
 
 Claims made in texts, be they news, opinion, or scientific articles, always
@@ -50,7 +58,7 @@ the following goals:
 3. **Measure how your skills from 1 & 2 change over the course**
 4. **Create a dataset of annotations for a corpus of documents** that capture the
    specific instances of bias-related aspects of the component texts
-   
+
 ## “The Instrument” Structure
 
 It is a structured approach to reading a text that has the following phases:
