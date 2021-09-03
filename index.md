@@ -85,6 +85,27 @@ look at issues of ableism, sexism, and gender discrimination.  BF/BI510 will
 prepare students to look at the scientific and popular literature and dismantle
 systemic inequity from its foundations. 
 
+### Course Principles and Classroom guidelines
+
+In this class:
+* We will cover uncomfortable ideas and information in this class
+* Feeling discomfort is normal - it is a sign of challenge and growth
+* It’s ok to make mistakes, so long as we are dedicated to becoming better
+* This room is a space for respectful dissent
+* The goal is not to agree - it is to gain a deeper understanding.
+
+Classroom ground rules:
+* Listen actively - respect others when they are talking.
+* Speak from your own experience instead of generalizing ("I" instead of "they," "we,"
+and "you")
+* Participate to the fullest of your ability - community growth depends on the inclusion
+of every individual voice.
+* Although no one experience or example will prove accurate 100% of the time, we will
+try to hear the truth in what is said instead of looking for exceptions to the case.
+* Assume everyone’s good intentions but also acknowledge the impact of saying
+something that hurts someone else, even if it is unintended.
+
+
 <a id="prerequisites">
 ## Prerequisites <a class="tiny-link" href="#">Top</a>
 
