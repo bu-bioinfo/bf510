@@ -63,7 +63,7 @@ the following goals:
 
 It is a structured approach to reading a text that has the following phases:
 
-1. **Annotate** -  label key words, phrases, or sentences with a controlled set
+1. [**Annotate**](assignments/annotate.html) -  label key words, phrases, or sentences with a controlled set
    of hashtags
 2. **Analyze** - answer a set of short answer questions designed to identify key
    aspects of the text
@@ -77,30 +77,3 @@ more conceptual understanding of the text, illustrated below.
 
 For more information on how to apply The Instrument, please consult our
 [user guide](https://docs.google.com/document/d/e/2PACX-1vSyYU0Cd_OycY620MWZuFo8Xlj8LgooJaLM_LPG22Ftp7ROU-96WjW8xHmehHR1INwGib5pmHlkdFpP/pub)
-
-## The Hashtagulary
-
-The "hashtagulary" (i.e. a [portmanteau](https://www.merriam-webster.com/dictionary/portmanteau)
-of "hashtag" and "vocabulary" that we made up) is a defined set of hashtags we will
-use to annotate portions (e.g. sentences) of a text. By annotating a text with a
-controlled vocabulary of hashtags, we can create a well-defined dataset that
-enables meaningful quantitative analysis.
-
-The current hashtagulary contains the following hashtags:
-
-| Hashtag          | Meaning                                                                                    |
-|------------------|--------------------------------------------------------------------------------------------|
-| assumption       | accepted as true or correct without explicit justification or evidence                     |
-| evidence         | a fact or result that provides support for a claim                                         |
-| exclusive        | idea or claim explicitly excludes a group of people                                        |
-| generalization   | a general statement or concept obtained by inference from specific cases.                  |
-| hogwash          | Nonsense (tongue in cheek :P)                                                              |
-| inclusive        | idea or claim explicitly includes a group of people                                        |
-| interpretation   | a belief or opinion that the author holds to follow from a piece of evidence or claim      |
-| lacks-definition | a key term used without explicit definition, or assumes reader has a particular definition |
-| opinion          | a view or judgment about something, not necessarily based on fact or knowledge             |
-| refuted          | other existing evidence directly contradicts the idea or claim                             |
-| speculation      | the forming of a theory or conjecture without explicit or comprehensive evidence           |
-| substantiated    | adequate evidence is provided for idea or claim                                            |
-| supposition      | an uncertain belief                                                                        |
-| unsubstantiated  | no supporting evidence provided for idea or claim                                          |
