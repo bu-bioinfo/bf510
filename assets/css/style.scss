@@ -13,6 +13,7 @@ $midnight: #1a2733;
 $fuchia: #da70dd;
 $orange: #dda470;
 $green: #72dd70;
+$yellow: #ffff00;
 
 h1, h2, h3, p, div, .header, h1.header, header, table, th, td {
     font-family: "Gowun Batang";
@@ -46,4 +47,16 @@ header {
 a.tiny-link {
     font-size: 9pt;
     border: 0px;
+}
+
+.generalization {
+  background-color: #{$yellow};
+}
+
+.opinion {
+  background-color: #{$green};
+}
+
+.speculation {
+  background-color: #{$blue};
 }
