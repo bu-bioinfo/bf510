@@ -3,7 +3,7 @@
 
 # Annotate
 
-![The Instrument](/assets/images/the_instrument.png)
+![The Instrument]({{ site.url }}/assets/images/the_instrument.png)
 
 Annotation is the first step of applying [the instrument](/the_instrument.html).
 You should strive to read the entire text from start to finish. As you go, take
@@ -98,14 +98,14 @@ our annotations. [This quick video guide](https://bostonu.zoom.us/rec/share/3gWz
 explains how to annotate documents in perusall. The images below also show the
 steps of how to annotate.
 
-![Landing Page](/assets/images/perusall_landing_page.png)
+![Landing Page]({{ site.url }}//assets/images/perusall_landing_page.png)
 
-![Assignment List](/assets/images/perusall_assign_list.png)
+![Assignment List]({{ site.url }}//assets/images/perusall_assign_list.png)
 
-![Assignment Landing](/assets/images/perusall_assign_landing.png)
+![Assignment Landing]({{ site.url }}//assets/images/perusall_assign_landing.png)
 
-![Reading Pane](/assets/images/perusall_reading_pane.png)
+![Reading Pane]({{ site.url }}//assets/images/perusall_reading_pane.png)
 
-![Annotation 1](/assets/images/perusall_annotation_1.png)
+![Annotation 1]({{ site.url }}//assets/images/perusall_annotation_1.png)
 
-![Annotation 2](/assets/images/perusall_annotation_2.png)
+![Annotation 2]({{ site.url }}//assets/images/perusall_annotation_2.png)
