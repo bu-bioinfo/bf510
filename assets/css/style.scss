@@ -14,6 +14,7 @@ $fuchia: #da70dd;
 $orange: #dda470;
 $green: #72dd70;
 $yellow: #ffff00;
+$grey: #444444;
 
 h1, h2, h3, p, div, .header, h1.header, header, table, th, td {
     font-family: "Gowun Batang";
@@ -59,4 +60,10 @@ a.tiny-link {
 
 .speculation {
   background-color: #{$blue};
+}
+
+.blockquote {
+    padding: 0.0in 0.25in 0.0in 0.25in;
+    font-style: italic;
+    color: #{$grey};
 }

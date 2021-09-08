@@ -3,17 +3,9 @@
 
 # Annotate
 
-<a id="contents"></a>Contents:
-* <a href="#annotation">Introduction</a>
-* <a href="#the-hashtagulary">The Hashtagulary</a>
-* <a href="#perusall">Perusall</a>
+![The Instrument](/assets/images/the_instrument.png)
 
-<a id="annotation">
-## Introduction <a class="tiny-link" href="#">Top</a>
-
-![The Instrument](assets/images/the_instrument.png)
-
-Annotation is the first step of applying [the instrument](the_instrument.html).
+Annotation is the first step of applying [the instrument](/the_instrument.html).
 You should strive to read the entire text from start to finish. As you go, take
 note and annotate key words, phrases, sentences, and passages with one or more
 hashtag labels from a controlled “hashtagulary” as described below. The reason
@@ -25,6 +17,7 @@ Consider the following passage published by Charles Davenport in 1928 in the
 journal The Scientific Monthly, which was incorporated into the journal Science
 in 1958:
 
+<p class="blockquote">
   There exists in mankind a strong instinct for homogeneity. Even children tend to
   mock at the cripple or deformed person. A homogeneous group of white people will
   always be led by its instincts to segregate itself from Negroes, Chinese and
@@ -33,6 +26,7 @@ in 1958:
   sufficient merely to denounce it. It probably has a deep biological meaning and
   so long as it exists, so long we should be led to follow it as a guide if we are
   to seek to establish a commonwealth characterized by peace and unity of ideals.
+</p>
 
 We might consider annotating this passage with three hashtags:
 <span class="generalization">#generalization</span>,
@@ -40,6 +34,7 @@ We might consider annotating this passage with three hashtags:
 The parts of the passage annotated to each hashtag are highlighted in the
 corresponding color for this example:
 
+<p class="blockquote">
   <span class="opinion">There exists in mankind a strong instinct for homogeneity.</span>
   <span class="generalization">Even children tend to mock at the cripple or deformed person.</span>
   A homogeneous group of white people will always be led by its instincts to
@@ -51,6 +46,7 @@ corresponding color for this example:
   as it exists, <span class="opinion">so long we should be led to follow it as a
   guide</span> if we are to seek to establish a commonwealth characterized by
   peace and unity of ideals.
+</p>
 
 This is not the only way to annotate this passage, and other hashtags are also
 appropriate, but this serves to illustrate the principle. Also note that for
@@ -102,14 +98,14 @@ our annotations. [This quick video guide](https://bostonu.zoom.us/rec/share/3gWz
 explains how to annotate documents in perusall. The images below also show the
 steps of how to annotate.
 
-![Landing Page](assets/images/perusall_landing_page.png)
+![Landing Page](/assets/images/perusall_landing_page.png)
 
-![Assignment List](assets/images/perusall_assign_list.png)
+![Assignment List](/assets/images/perusall_assign_list.png)
 
-![Assignment Landing](assets/images/perusall_assign_landing.png)
+![Assignment Landing](/assets/images/perusall_assign_landing.png)
 
-![Reading Pane](assets/images/perusall_reading_pane.png)
+![Reading Pane](/assets/images/perusall_reading_pane.png)
 
-![Annotation 1](assets/images/perusall_annotation_1.png)
+![Annotation 1](/assets/images/perusall_annotation_1.png)
 
-![Annotation 2](assets/images/perusall_annotation_2.png)
+![Annotation 2](/assets/images/perusall_annotation_2.png)
