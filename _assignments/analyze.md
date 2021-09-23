@@ -10,7 +10,7 @@ the overall text as well as a hint of how biased the author is. The next phase
 is designed to help you concretize this intuition by answering a set of
 structured, objective questions about the overall text related to bias and
 equity. The current questions, in order are as follows, with example responses
-from the text examined in the [annotation phase](annotation.html):
+from the text examined in the [annotation phase](annotate.html):
 
 | Question                                                                                                                                                       | Example Answer For Davenport Passage                                                                                |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
