@@ -67,7 +67,7 @@ It is a structured approach to reading a text that has the following phases:
    sentences with a controlled set of hashtags
 2. [**Analyze**](assignments/analyze.html) - answer a set of short answer questions designed to identify key
    aspects of the text
-3. **Synthesize** - write a short narrative reflection about the article guided
+3. [**Synthesize**](assignments/synthesis.html) - write a short narrative reflection about the article guided
    by a set of scaffolding questions
 
 We can think of these phases as moving from a detailed, literal examination to a
