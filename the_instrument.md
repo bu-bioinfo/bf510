@@ -65,7 +65,7 @@ It is a structured approach to reading a text that has the following phases:
 
 1. [**Annotate**](assignments/annotate.html) -  label key words, phrases, or
    sentences with a controlled set of hashtags
-2. **Analyze** - answer a set of short answer questions designed to identify key
+2. [**Analyze**](assignments/analyze.html) - answer a set of short answer questions designed to identify key
    aspects of the text
 3. **Synthesize** - write a short narrative reflection about the article guided
    by a set of scaffolding questions

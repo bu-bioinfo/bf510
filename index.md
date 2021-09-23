@@ -44,7 +44,7 @@ Research Scientist and Segrè Lab Manager, Bioinformatics Program
 Research Assistant Professor, Graduate Program in Bioinformatics
 
 * *Office Location:* Segre Lab (LSEB 9th floor; LSEB Room 331/332)
-* *Office Hours:* 
+* *Office Hours:*
 Thursday 9AM-10AM (ZOOM, class link (available on Perusall))
 Friday 10AM-11AM (In person, LSEB 331)
 Appointments always welcome
@@ -162,7 +162,7 @@ the following phases:
 1. [**Annotate**](assignments/annotate.html) -  label key words, phrases, or sentences with a controlled set
    of hashtags
 
-2. **Analyze** - answer a set of short answer questions designed to identify key
+2. [**Analyze**](assignments/analyze.html) - answer a set of short answer questions designed to identify key
    aspects of the text
 
 3. **Synthesize** - write a short narrative reflection about the article guided
