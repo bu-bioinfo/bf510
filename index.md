@@ -63,7 +63,7 @@ Devlin Moyer (he/him)
 ### Co-instructors
 
 * Felicity Crawford (she/her)
-* Adam Labadorf (he/him)
+* Adam Labadorf (he/him) - labadorf at BU dot edu
 * TJ McKenna (he/him)
 * Theresa Rueger (she/her)
 
