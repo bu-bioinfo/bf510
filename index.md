@@ -57,7 +57,7 @@ Appointments always welcome
 TBD
 
 
-* *Office Location:* Segre Lab (LSEB 9th floor)
+* *Office Location:* 
 *  *Email:*
 
 ### Co-instructors
