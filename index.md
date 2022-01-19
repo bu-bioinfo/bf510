@@ -32,6 +32,7 @@ eradicate the presence of racism in our institutions.
 * <a href="#the-instrument">The Instrument</a>
 * <a href="#grading">Grading</a>
 * <a href="#resources">Resources</a>
+* <a href="library.html">Course Library</a>
 
 <a id="instructors">
 ## Instructors <a class="tiny-link" href="#">Top</a>
@@ -56,7 +57,7 @@ Appointments always welcome
 TBD
 
 
-* *Office Location:* 
+* *Office Location:*
 *  *Email:*
 
 ### Co-instructors
