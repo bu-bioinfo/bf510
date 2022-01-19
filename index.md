@@ -45,8 +45,7 @@ Research Assistant Professor, Graduate Program in Bioinformatics
 
 * *Office Location:* Segre Lab (LSEB 9th floor; LSEB Room 331/332)
 * *Office Hours:*
-Thursday 9AM-10AM (ZOOM, class link (available on Perusall))
-Friday 10AM-11AM (In person, LSEB 331)
+TBD
 Appointments always welcome
 
 * *Office Phone:* 617-353-0490
