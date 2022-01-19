@@ -1,44 +1,31 @@
-Date,Lec,Guiding Question,Topic,Topic Tag,Topic Slide Link,Assignment,Assignment Tag
-9/3/2021,1,Is racism endemic in science?,Intro/Culture <-> Science Feedback Loop,intro,https://docs.google.com/presentation/d/e/2PACX-1vSdkUYgqJO3F1L-5Hi5BK0UdASbG8es0czIhPiUQ214kCXyNsMDYeeMVV2H0z_NDviAc-OuUlendRoA,Annotate,annotate
-9/8/2021,2,Is racism endemic in science?,Course Structure/The Instrument,the-instrument,https://docs.google.com/presentation/d/e/2PACX-1vSOGKm7-EA13RSudCUYBhZg_IricwAWgnzf72IW8y7BSu4kCcRo0xnDum360MXpW6m06_ypkh2drwqH,,
-9/10/2021,3,Is racism endemic in science?,Discussion: Types of Human Biases/CourseTeam,discussion-01,https://docs.google.com/presentation/d/e/2PACX-1vQqaDzcQSQ1V_czIu6_-vDaxQtoFUm9fGROPvhZZhE8jpIZD2EubKg8biALdaYOBwmpSiaegm3nA8Lx,Annotation Due,
-9/13/2021,4,Is race biological?,Linnaeus & His Legacy,linnaeus,https://docs.google.com/presentation/d/e/2PACX-1vRNCf9xLXBcL_N93zP7s_mNdDMs3DXVbKfrP2lONNhxErX_WyvnFoJAEYzzank79TukCOQ8h4sVrjKZ,Annotate,annotate
-9/15/2021,5,Is race biological?,"The Gene, the Central Dogma and Mendelian Inheritence",the-gene,https://docs.google.com/presentation/d/e/2PACX-1vTEfUbb1tNf9vGa-PSyqCRlHdZuHEhu2YA8Ctak2g1gUt18NU7xeQwPMjSihR8OHVy_C8ia0vWDHoqR,,
-9/17/2021,6,Is race biological?,Discussion - Sickle Cell Disease,discussion-02,https://docs.google.com/presentation/d/e/2PACX-1vQPhdBREoTiu5jMxks0V7cf_IOd5XgaN8O2_kQkANZS7RRzM43EADycFjVlarcq61ugPh38nhI6fAO_,Annotation Due,
-9/20/2021,7,Genes and context for eugenics,Discussion - Sickle Cell Disease Part II,eugenics,https://docs.google.com/presentation/d/e/2PACX-1vTFSc22mC7YycTiDQ7jMe2YmHPYOLIfPUVh947YCMlbXOLmLMT-mwaa4iAzzgHQhMx_i5tkUEEA_6cJ,Case Study 1,case-study-1
-9/22/2021,8,Genes and context for eugenics,Galton & The Eugenics Movement,human-genetics,https://docs.google.com/presentation/d/e/2PACX-1vRS314i_mKc0P_S9xaQ46phDVxx0fo52WxalgZ_WK90D5fSwVVVRE_xBdQ41BR0_yGKbJRdoHWIUF3T,,
-9/24/2021,9,Genes and context for eugenics,Discussion (Case studies),discussion-03,https://docs.google.com/presentation/d/e/2PACX-1vRz3Ow1LCEyzEcoIsC0kfBSOQqFrTIQA6tMISSC6arVGISwW4HE61oCAgLABxZfTTjHaNBYoE7A_kVA,,
-9/27/2021,10,Eugenics and Modern Race Science,Return of Race Science & The Biology of Skin Color,race-science,https://docs.google.com/presentation/d/e/2PACX-1vRgjc7JVN6yHn6j34qZh81-nOOLfl9UtYyTtNiYtFHR2d77I038TacWXVJNDYsOGdXd3o1KnHkYAF4m,Annotate,annotate
-9/29/2021,11,Eugenics and Modern Race Science,Human Genomics & The 1000 Genomes Project,the-human-genome,https://docs.google.com/presentation/d/e/2PACX-1vRMR16Ja7nmzyXQfhWzqPvWEQ__HaGPaFTJYQkkd1bXv1yVVFpBC8Ili6WEn0FSKBSolPrgJ-8lyfPc,,
-10/1/2021,12,Eugenics and Modern Race Science,Discussion,discussion-04,https://docs.google.com/presentation/d/e/2PACX-1vSjJDzcIq-bbJcfc2RlLA08LOsadbcD9eI54dYqnbtjp7HJrYk0rMsOGFn7uzx6yvolufF09MVvK1xv,Annotation Due/Case Study Analyses Due,case-study-1
-10/4/2021,13,The Genetics of IQ and Correlation versus Causation,Measuring Intelligence - Science and Society,measuring-intelligence,https://docs.google.com/presentation/d/e/2PACX-1vRqTYxPIZmYM-xbNF0pmNA-FJu-Ss4U_1dcnfVewl6puZOiUEbXdBo6p7gab38hBrG0y5hVHSg50Gk3,Annotate,annotate
-10/6/2021,14,The Genetics of IQ and Correlation versus Causation,Genome Wide Association/Genetic Testing,genetic-testing,https://docs.google.com/presentation/d/e/2PACX-1vQ0MpMCCVteIKMdzoJ5hH723ci9mzUlq1c6HMyv7oPubCUkf0oOxi5z6q6M3r4p71XTEgyE4iC01MMQ,,
-10/8/2021,15,The Genetics of IQ and Correlation versus Causation,Discussion,discussion-05,https://docs.google.com/presentation/d/e/2PACX-1vQdq3sSmEAU3JQ7n8Ydzotz6cqHtUEc5vhgVFQwWBOGivMQRDBLZ7w1vNu_ksi_m3QRmqhKrqP8mBaV,Annotation Due,
-10/12/2021,16,Genes and Epigenetics,Synthesis/Case Study Feedback/Intro to Epigenetics,acquired-vs-inherited-traits,https://docs.google.com/presentation/d/e/2PACX-1vQD-pvBwz2BJ3Mmwt7TfJe6wYc96YqCDRe2xq89aycg5QGTyVCEq-d97A4LGJC4vH3WZPQ_y7I7w6jZ,Annotate,annotate
-10/13/2021,17,Genes and Epigenetics,Intro to Epigenetics (Epigenetic mechanisms; tools for studying epigenetics),genetics-vs-epigenetics,https://docs.google.com/presentation/d/e/2PACX-1vQY_uJ_PAKPeg5TpnlB1iSZEuNwoiej6yM5D0ibofCZPT8yJAuoxYgLFWuboGvXrgx0DRJr8ORDubYA,,
-10/15/2021,18,Genes and Epigenetics,Discussion - Race and Epigenetics,discussion-06,https://docs.google.com/presentation/d/e/2PACX-1vSDCBWmsiE9f-SM1sBEgmlubYPTm6uPMqhrhJ_OLH6vWTfXS3tYfQ3lj6KSXHAfPyPrYKIBt4I09-c8,Annotation due,annotate
-10/18/2021,19,Epigenetics and Context for Health Care,Epigenetics in Human Health,epigenetics,https://docs.google.com/presentation/d/e/2PACX-1vQVcDbb9w3FgMSgSTm_b6mlL47bMX5ljWBaDwk9V7Vzsuk5ZPhV4YGGjfc4hr4kXXaJjU3yDgU5uimP,Case Study 2 Assigned,annotate
-10/20/2021,20,Epigenetics and Context for Health Care,Environmental Effects & Toxicity,environment,https://docs.google.com/presentation/d/e/2PACX-1vQvHAgDKMfTzRYAvbobwv8OjhiJkq4-NESO_Yg9RtXtOQFkx4Tiam1C7EVoCqyDtAr-fi_TIpAAetgm,,
-10/22/2021,21,Epigenetics and Context for Health Care,Discussion,discussion-07,https://docs.google.com/presentation/d/e/2PACX-1vTqitArNrNTb0Si1xCb8bnkxpOtqlqEfKtIjrSXS4lFQ2vpkBpl5xBNaLDcdnmewtqO7zk5k_tR46s-,,case-study-2
-10/25/2021,22,Biological Effects of Chronic Stress,Sources and Types of Stress,stress-sources,https://docs.google.com/presentation/d/e/2PACX-1vRTK_p_7RyXNazUyiVoaH1A7ZZhA2lkue3AuodEwktqdn1-wiQBUlaZGjmBO_9p1d9EBEh5pSRvbTKr,Annotate,annotate
-10/27/2021,23,Biological Effects of Chronic Stress,Biological Effects of Chronic Stress,stress-biology,https://docs.google.com/presentation/d/e/2PACX-1vTYfVuGazOcRWwBR2czM6KTXYEyp3ZMzFxBjfEqFavOoY_VWrQE4g_v2LiQ8FfeqXK_0alHvnXwpvl0,,
-10/29/2021,24,Biological Effects of Chronic Stress,Discussion,discussion-08,https://docs.google.com/presentation/d/e/2PACX-1vR0i5Ge2sJIWK5DtlP4-uqC98_VaWLSycX3ReLKJxyjQ4mFPpQyMkw5pXgSE5NEV0KjPp1IPbT9hGpZ,Annotation Due/Case Study 2 Due,
-11/1/2021,25,Algorithmic Bias,Algorithmic Bias,algorithmic-bias,https://docs.google.com/presentation/d/e/2PACX-1vRanw4_ITs7bowBmfFJ8lKzWprqlRcsLTq1gYmWDWKsqlKuQmxOPQ8NN1i7ufXXz0-a8kV0tyGq1AVM,Case Study 3 Assigned,case-study-3
-11/3/2021,26,Algorithmic Bias,Mitigating Algorithmic Bias,correcting-for-race,https://docs.google.com/presentation/d/e/2PACX-1vQejHlXz8hnqK3F1Wreurf4GCxMzlYZ4UgirDsRcp0RzM4KrpRdBdH2fxz3Yd1LhLrxFobPgXHGV7mx,,
-11/5/2021,27,Final Project Role Out,Discussion,discussion-09,https://docs.google.com/presentation/d/e/2PACX-1vQBZ1bnVs4-5gdZahZpoX0rQULQz5Obay7hJCHMqfKUjZr_OdhrFDbwVFGEeSC-bsGfF27-bjX9C3aq,,
-11/8/2021,28,Racism in Healthcare - from Predisposition to Patient Treatment,Data in Healthcare,data-in-healthcare,https://docs.google.com/presentation/d/e/2PACX-1vTbBmnqTdV6nIlFB5U1LhRjb044-R8PIy-BK4A9sSXOJD_mibXfSIYVDOQOQZAqFuN40Yftxj_ldT7_,Project Proposal Assigned,project
-11/10/2021,29,Racism in Healthcare - from Predisposition to Patient Treatment,Race-Correction and Health Disparities,race-correction-and-health,https://docs.google.com/presentation/d/e/2PACX-1vRTBA06hm0cbAoOTe2-OvX0iZ9FSKYD2IjFAvWOia3-G_DdabJFEoTrZbWACblIUT2zi5NY64z4Z9c_,,
-11/12/2021,30,Racism in Healthcare - from Predisposition to Patient Treatment,Discussion,discussion-10,https://docs.google.com/presentation/d/e/2PACX-1vRvgjOhBspjwtAM3D9MhIxAd2KWdxj6D_xqFwPURz48XmOvB2aUxKwxiGAEtZW4dZSxm0ma6I7kj_LD/pub?start=false&loop=false&delayms=3000,Case Study 3 Due,
-11/15/2021,31,Reversing the Biological Effects of Racism,Socio-economic-environmental Factors,socio-economic-environ,https://docs.google.com/presentation/d/e/2PACX-1vTtjpG_U-rllArwc_dMkzAM6l35VKnDfgkvvDjfDVmba7CCtMX1UenUYET7U-DXswCV-xKJAfihnqRG,,
-11/17/2021,32,Reversing the Biological Effects of Racism,"""Economic Inheritance"" - Generational Wealth",economic-inheritance,https://docs.google.com/presentation/d/e/2PACX-1vRi-xcbR6kGLYzTXpu8u9JeAPnMHYNv3x5NOTikQVIGDoiGbKRs7c6mmbcIzsJZjNHc2dAOpxtf6-zd,,
-11/19/2021,33,Reversing the Biological Effects of Racism,Discussion,discussion-11,,,
-11/22/2021,34,Changes to Ethical Practices in Science - Accountability and Opportunity,Exclusion in Science/STEM,the-leaky-pipeline,,Proposal Due,project
-11/24/2021,,,Thanksgiving break,,,,
-11/26/2021,,,Thanksgiving break,,,,
-11/29/2021,35,Science Communication - A Weapon Against Racism,How To Bring Up Race in the Lab,increasing-diversity,,,
-12/1/2021,36,Science Communication - A Weapon Against Racism,Critical Pedagogy,discussion-12,,,
-12/3/2021,37,Science Communication - A Weapon Against Racism,Discussion,critical-pedagogy,,,
-12/6/2021,38,Project Presentations/Discussion,Presentations Day 1,how-to-bring-up-race,,,
-12/8/2021,39,Project Presentations/Discussion,Presentations Day 2,discussion-13,,,
-12/10/2021,40,Project Presentations/Discussion,Presentations Day 3,the-future,,,
-12/14/2021,NA,Course Final Exam Time,Course Final Exam Time,,,Final Project Due,project
+Date,Lec,Guiding Question,Topic,Topic Tag,Topic Slide Link,Assignment,Assignment Tag,Secondary Tag
+1/20/2022,1,Is racism endemic in science?,Intro/Culture <-> Science Feedback Loop/Course Structure/The Instrument,intro,,Annotate,annotate,the-instrument
+1/25/2022,2,Is racism endemic in science?,Linnaeus & His Legacy,linnaeus,,,,
+1/27/2022,3,Is racism endemic in science?,Discussion - Davenport,discussion-01,,Annotation Due,,
+2/1/2022,4,Is race biological?,"The Gene, the Central Dogma and Mendelian Inheritence",the-gene,,Annotate,annotate,
+2/3/2022,5,Is race biological?,Discussion - Sickle Cell Disease,discussion-02,,Annotation Due,,
+2/8/2022,6,Genes and context for eugenics,Galton & The Eugenics Movement/Return of Race Science & The Biology of Skin Color,eugenics,,Case Study 1,case-study-1,human-genetics
+2/10/2022,7,Genes and context for eugenics,Discussion (Case studies),discussion-03,,,,
+2/15/2022,8,Eugenics and Modern Race Science,Human Genomics & The 1000 Genomes Project,race-science,,Annotate,annotate,the-human-genome
+2/17/2022,9,Eugenics and Modern Race Science,Discussion,discussion-04,,Annotation Due/Case Study Analyses Due,case-study-1,
+2/22/2022,10,The Genetics of IQ and Correlation versus Causation,Measuring Intelligence - Science and Society/Genome Wide Association/Genetic Testing,measuring-intelligence,,Annotate,annotate,genetic-testing
+2/24/2022,11,The Genetics of IQ and Correlation versus Causation,Discussion,discussion-05,,,,
+3/1/2022,12,Genes and Epigenetics,Synthesis/Case Study Feedback/Intro to Epigenetics,acquired-vs-inherited-traits,,Annotate,annotate,genetics-vs-epigenetics
+3/3/2022,13,Genes and Epigenetics,Discussion - Race and Epigenetics,discussion-06,,Annotation due/Assign Case Study 2,annotate,
+,,Spring Break,,,,,,
+3/15/2022,14,Epigenetics and Context for Health Care,Epigenetics in Human Health/Environment and Epigenetics,epigenetics,,Annotate,case-study-2,environment
+3/17/2022,15,Epigenetics and Context for Health Care,Discussion,discussion-07,,Annotate/Case Study 2 Due,,
+3/22/2022,16,Biological Effects of Chronic Stress,Sources and Types of Stress/Biological Effects of Chronic Stress,stress-sources,,Case Study 3 Assigned,case-study-3,stress-biology
+3/24/2022,17,Biological Effects of Chronic Stress,Discussion,discussion-08,,Annotation Due,,
+3/29/2022,18,Algorithmic Bias,"Algoritmic Bias and ""Correcting"" for race",algorithmic-bias,,Project Proposal Assigned,project,correcting-for-race
+3/31/2022,19,Algorithmic Bias,Discussion,discussion-09,,,,
+4/5/2022,20,Racism in Healthcare - from Predisposition to Patient Treatment,Data in Healthcare/Race-Correction and Health Disparities,data-in-healthcare,,,,race-correction-and-health
+4/7/2022,21,Racism in Healthcare - from Predisposition to Patient Treatment,Discussion,discussion-10,,Case Study 3 Due,,
+4/12/2022,22,Reversing the Biological Effects of Racism,"Socio-economic-environmental Factors/""Economic Inheritance"" - Generational Wealth",socio-economic-environ,,,,economic-inheritance
+4/14/2022,23,Reversing the Biological Effects of Racism,Discussion,discussion-11,,Proposal Due,project,
+4/19/2022,24,Changes to Ethical Practices in Science - Accountability and Opportunity,Inlucsion in Science/Critical Pedagogy,critical-pedagogy,,,,increasing-diversity
+4/21/2022,25,Changes to Ethical Practices in Science - Accountability and Opportunity,Discussion,discussion-12,,,,
+4/26/2022,26,Project Presentations,,,,,,
+4/28/2022,27,Project Presentations,,,,,,
+5/3/2022,28,How do we teach others to fight racism?,Retrospective & An Activist Future,the-future,,,,
+5/10/2022,,FINALS WEEK,,,,Final Project Due,project,
