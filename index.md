@@ -53,12 +53,12 @@ Appointments always welcome
 * *Email:* melosbor at BU dot edu
 * *Twitter:* @MelisaLKO
 
-%### Teaching Fellow
-%Devlin Moyer (he/him)
+### Teaching Fellow
+TBD
 
-%3rd Year PhD Student - Graduate Program in Bioinformatics
-%* *Office Location:* Segre Lab (LSEB 9th floor)
-%* *Email:* dcmoyer at BU dot edu
+
+* *Office Location:* Segre Lab (LSEB 9th floor)
+*  *Email:*
 
 ### Co-instructors
 
@@ -66,6 +66,7 @@ Appointments always welcome
 * Adam Labadorf (he/him) - labadorf at BU dot edu
 * TJ McKenna (he/him)
 * Theresa Rueger (she/her)
+* Fred Wasserman (he/him)
 
 <a id="objectives">
 ## Course Objectives <a class="tiny-link" href="#">Top</a>
