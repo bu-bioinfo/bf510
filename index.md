@@ -18,11 +18,11 @@ modern manifestations, examines the harmful consequences on victims' health
 outcomes, and presents ideas, approaches, and practices to ameliorate and
 eradicate the presence of racism in our institutions.
 
-**Semester:** Fall 2021
+**Semester:** Spring 2022
 
-**Location:** PHO 202
+**Location:** BRB 115
 
-**Time:** MWF 2:30-3:20
+**Time:** Tues/Thursday 12.30pm-3.15pm EST
 
 <a id="contents"></a>Contents:
 * <a href="#instructors">Instructors</a>
@@ -53,12 +53,12 @@ Appointments always welcome
 * *Email:* melosbor at BU dot edu
 * *Twitter:* @MelisaLKO
 
-### Teaching Fellow
-Devlin Moyer (he/him)
+%### Teaching Fellow
+%Devlin Moyer (he/him)
 
-3rd Year PhD Student - Graduate Program in Bioinformatics
-* *Office Location:* Segre Lab (LSEB 9th floor)
-* *Email:* dcmoyer at BU dot edu
+%3rd Year PhD Student - Graduate Program in Bioinformatics
+%* *Office Location:* Segre Lab (LSEB 9th floor)
+%* *Email:* dcmoyer at BU dot edu
 
 ### Co-instructors
 
