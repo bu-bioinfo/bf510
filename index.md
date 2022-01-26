@@ -44,19 +44,19 @@ Research Scientist and Segrè Lab Manager, Bioinformatics Program
 
 Research Assistant Professor, Graduate Program in Bioinformatics
 
-* *Office Location:* Segre Lab (LSEB 9th floor; LSEB Room 331/332)
+* *Office Location:* Segre Lab (LSEB Room 331)
 * *Office Hours:*
-TBD
+Tuesday after class until 4pm
+Weds 11AM-noon
+(Concurrent avaibility in zoom classroom for office hours)
 Appointments always welcome
 
-* *Office Phone:* 617-353-0490
+* *Office Phone:* 617-353-0490 (needed for 3rd floor LSEB access)
 * *Email:* melosbor at BU dot edu
 * *Twitter:* @MelisaLKO
 
 ### Teaching Fellow
-TBD
-
-
+NONE for Spring 2022
 * *Office Location:*
 *  *Email:*
 
@@ -271,8 +271,8 @@ The instructors of this course pledge to:
 
 ### Attendance
 
-Attendance is not used as a criterion for assessment in this course. This a primarily in-person course and lectures and discussion are held at Photonics Room 202.  
-Zoom links and recordings will be made available during/after each session to accomodate remote MS learners (Biology/Bioinfo).
+Attendance is not used as a criterion for assessment in this course. This a primarily in-person course and lectures and discussion are held at BRB115.  
+Zoom links and recordings will be made available during/after each session to accomodate the ongoing COVID situation until Feb 18, 2022 and as directed by BU policy.
 
 ### Policy on Religious Observances
 
