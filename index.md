@@ -127,13 +127,16 @@ standing, or consent of instructor.
 <table>
   <tr>
     <th>Date</th>
+    <th>Day</th>
     <th>Lec #</th>
     <th>Topic</th>
     <th>Assignment</th>
+    <th>Instructor</th>
   </tr>
 {% for lec in site.data.schedule %}
   <tr>
     <td>{{ lec.Date }}</td>
+    <td>{{ lec.Day }}</td>
     <td>{{ lec.Lec }}</td>
     <td>
         {%- if lec.Lec != nil -%}
@@ -147,6 +150,7 @@ standing, or consent of instructor.
             <a href="assignments/{{ lec["Assignment Tag"] }}.html">{{ lec.Assignment }}</a>
         {%- endif -%}
     </td>
+    <td>{{ lec.Instructor }}</td>
   </tr>
 {% endfor %}
 </table>
