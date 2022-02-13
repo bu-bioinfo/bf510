@@ -144,26 +144,27 @@ standing, or consent of instructor.
     <td>{{ lec.Day }}</td>
     <td>{{ lec.Lec }}</td>
     <td>
-      {%- if lec.Lec != empty %}
+      truthy test on lec.Lec {%- if lec.Lec -%} passed {%- else -%}  failed {%- endif -%}
+      {% if lec.Lec != empty %}
           lec isnt empty "{{ lec.Lec }}"
-      {%- endif -%}
+      {% endif %}
 
-      {%- if lec.Lec == "" %}
+      {% if lec.Lec == "" %}
           lec equals "" "{{ lec.Lec }}"
-      {%- endif -%}
+      {% endif %}
 
       lec is "{{ lec.Lec }}"
-      
-      {%- if lec.Lec == empty and lec["Topic Slide Link"] == empty -%}
+
+      {% if lec.Lec == empty and lec["Topic Slide Link"] == empty %}
           {{ lec.Topic }}
-      {%- else -%}
+      {% else %}
           <a href="lectures/{{ lec["Topic Tag"] }}.html">{{ lec.Topic }}</a>
-      {%- endif -%}
+      {% endif %}
     </td>
     <td>
-        {%- if lec.Assignment != empty -%}
+        {% if lec.Assignment != empty %}
             <a href="assignments/{{ lec["Assignment Tag"] }}.html">{{ lec.Assignment }}</a>
-        {%- endif -%}
+        {% endif %}
     </td>
     <td>{{ lec.Instructor }}</td>
   </tr>
