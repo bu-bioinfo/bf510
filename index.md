@@ -135,34 +135,27 @@ standing, or consent of instructor.
   </tr>
 {% for lec in site.data.schedule %}
 
-  {% if lec.Lec == empty %}
-  <tr class="nolec">
-  {% else %}
+  {% if lec.Lec %}
   <tr class="lec">
+  {% else %}
+  <tr class="nolec">
   {% endif %}
     <td>{{ lec.Date }}</td>
     <td>{{ lec.Day }}</td>
     <td>{{ lec.Lec }}</td>
     <td>
-      truthy test on lec.Lec {%- if lec.Lec -%} passed {%- else -%}  failed {%- endif -%}
-      {% if lec.Lec != empty %}
-          lec isnt empty "{{ lec.Lec }}"
-      {% endif %}
-
-      {% if lec.Lec == "" %}
-          lec equals "" "{{ lec.Lec }}"
-      {% endif %}
-
-      lec is "{{ lec.Lec }}"
-
-      {% if lec.Lec == empty and lec["Topic Slide Link"] == empty %}
-          {{ lec.Topic }}
-      {% else %}
+      {% if lec.Lec %}
+        {% if lec["Topic Slide Link"] %}
           <a href="lectures/{{ lec["Topic Tag"] }}.html">{{ lec.Topic }}</a>
+        {% else %}
+          {{ lec.Topic }}
+        {% endif %}
+      {% else %}
+          {{ lec.Topic }}
       {% endif %}
     </td>
     <td>
-        {% if lec.Assignment != empty %}
+        {% if lec.Assignment %}
             <a href="assignments/{{ lec["Assignment Tag"] }}.html">{{ lec.Assignment }}</a>
         {% endif %}
     </td>
