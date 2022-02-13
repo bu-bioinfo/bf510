@@ -32,6 +32,15 @@ td {
     background-color: #dddddd;
 }
 
+td.clear {
+  backtround-color: #ffff00;
+}
+
+tr.nolec {
+  color: #aaa;
+  background-color: #fff;
+}
+
 a {
     color: #{$dark-blue};
     font-style: bold;
