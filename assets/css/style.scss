@@ -28,14 +28,22 @@ th {
     background-color: #{$blue};
 }
 
-tr {
-    background-color: #dddddd;
-    border: #fff solid 2px;
+td {
+  color: inherit;
+  background-color: inherit;
+}
+
+tr.lec {
+    td {
+      background-color: #dddddd;
+    }
 }
 
 tr.nolec {
-  color: #aaa;
-  background-color: #fff;
+    td {
+    color: #aaa;
+    background-color: #fff;
+  }
 }
 
 a {
