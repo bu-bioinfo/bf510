@@ -144,9 +144,16 @@ standing, or consent of instructor.
     <td>{{ lec.Day }}</td>
     <td>{{ lec.Lec }}</td>
     <td>
-      {%- if lec.Lec == empty %}
-        lec is empty
+      {%- if lec.Lec != empty %}
+          lec isnt empty "{{ lec.Lec }}"
       {%- endif -%}
+
+      {%- if lec.Lec == "" %}
+          lec equals "" "{{ lec.Lec }}"
+      {%- endif -%}
+
+      lec is "{{ lec.Lec }}"
+      
       {%- if lec.Lec == empty and lec["Topic Slide Link"] == empty -%}
           {{ lec.Topic }}
       {%- else -%}
