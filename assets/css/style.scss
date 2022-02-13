@@ -28,12 +28,9 @@ th {
     background-color: #{$blue};
 }
 
-td {
+tr {
     background-color: #dddddd;
-}
-
-td.clear {
-  backtround-color: #ffff00;
+    border: #fff solid 2px;
 }
 
 tr.nolec {

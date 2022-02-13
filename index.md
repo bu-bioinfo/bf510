@@ -134,7 +134,7 @@ standing, or consent of instructor.
     <th>Instructor</th>
   </tr>
 {% for lec in site.data.schedule %}
-  {% assign no_lec = lec.Lec == blank %}
+  {% assign no_lec = lec.Lec == "X" %}
   <tr class="{% if no_lec %}nolec{% endif %}">
     <td>{{ lec.Date }}</td>
     <td>{{ lec.Day }}</td>
