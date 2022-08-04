@@ -3,6 +3,11 @@
 
 # Spring 2022 Class Transcripts
 
+* 20220127 - [Discussion - Davenport](mds/20220127-discussion-01.md)
+* 20220201 - [The Gene, the Central Dogma and Mendelian Inheritence](mds/20220201-the-gene.md)
+* 20220208 - [Galton & The Eugenics Movement/Return of Race Science & The Biology of Skin Color](mds/20220208-eugenics.md)
+* 20220210 - [Discussion (Case studies)](mds/20220210-discussion-03.md)
+* 20220215 - [Human Genomics & The 1000 Genomes Project](mds/20220215-race-science.md)
 * 20220217 - [Discussion](mds/20220217-discussion-04.md)
 * 20220224 - [Measuring Intelligence - Science and Society/Genome Wide Association/Genetic Testing](mds/20220224-measuring-intelligence.md)
 * 20220301 - [Discussion](mds/20220301-discussion-05.md)
