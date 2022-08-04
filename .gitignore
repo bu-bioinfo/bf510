@@ -3,3 +3,5 @@
 *.gz
 Gemfile.lock
 _site
+/.idea
+/assets/bootstrap/js
