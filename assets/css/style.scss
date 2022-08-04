@@ -1,8 +1,8 @@
 ---
 ---
 
+@import "bootstrap/bootstrap";
 @import "{{ site.theme }}";
-
 @import url("https://fonts.googleapis.com/css?family=Gowun+Batang:400,700");
 
 $blue: #70a9dd;
@@ -10,7 +10,7 @@ $med-dark-blue: #5a89b3;
 $dark-blue: #456888;
 $very-dark-blue: #2f475d;
 $midnight: #1a2733;
-$fuchia: #da70dd;
+$fuchsia: #da70dd;
 $orange: #dda470;
 $green: #72dd70;
 $yellow: #ffff00;
@@ -20,30 +20,18 @@ h1, h2, h3, p, div, .header, h1.header, header, table, th, td {
     font-family: "Gowun Batang";
 }
 
+th {
+  color: $grey;
+}
+
+.table-gap {
+  @extend .table-light;
+  background-color: #eee;
+  color: #999;
+}
+
 p, li, a, td {
     font-size: 13pt;
-}
-
-th {
-    background-color: #{$blue};
-}
-
-td {
-  color: inherit;
-  background-color: inherit;
-}
-
-tr.lec {
-    td {
-      background-color: #dfdfdf;
-    }
-}
-
-tr.nolec {
-    td {
-    color: #aaa;
-    background-color: #fff;
-  }
 }
 
 a {
@@ -64,6 +52,7 @@ a.tiny-link {
     border: 0px;
 }
 
+// these are for the instrument annotations
 .generalization {
   background-color: #{$yellow};
 }
@@ -81,3 +70,65 @@ a.tiny-link {
     font-style: italic;
     color: #{$grey};
 }
+
+// these are for alert boxes
+.box:before {
+  font-weight: bold;
+  display: block;
+  clear: both;
+}
+
+.note:before {
+  @extend .box, :before;
+  content: "💡 Note";
+}
+.note {
+  @extend .alert;
+  @extend .alert-primary;
+}
+
+.warning:before {
+  @extend .box, :before;
+  content: "⚠ Warning!";
+}
+.warning {
+  @extend .alert;
+  @extend .alert-danger;
+}
+
+.important:before {
+  @extend .box, :before;
+  content: "❗ Important!";
+}
+.important {
+  @extend .alert;
+  @extend .alert-warning;
+}
+
+.sidebar:before {
+  @extend .box, :before;
+  content: "🤔 Sidebar";
+}
+.sidebar {
+  @extend .alert;
+  @extend .alert-secondary;
+}
+
+.reading:before {
+  @extend .box, :before;
+  content: "📖 Further Reading";
+}
+.reading {
+  @extend .alert;
+  @extend .alert-success;
+}
+
+.question:before {
+  @extend .box, :before;
+  content: "❔ Question";
+}
+.question {
+  @extend .alert;
+  @extend .alert-info;
+}
+

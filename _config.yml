@@ -8,6 +8,8 @@ source: .
 incremental: false
 highlighter: rouge
 exclude: [ util, analysis ]
+sass:
+  sass_dir: assets/css
 gist:
   noscript: false
 kramdown:
@@ -44,3 +46,5 @@ collections:
         output: true
     assignments:
         output: true
+    mds:
+      output: true

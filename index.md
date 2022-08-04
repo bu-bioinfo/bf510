@@ -4,7 +4,6 @@ permalink: /
 
 # BF/BI510: Institutional Racism in Health and Science
 
-
 Historically, scientific theories and methodologies have been inappropriately,
 and sometimes fraudulently, employed to provide justification for establishing
 and maintaining social, economic, and racial hierarchies, resulting in
@@ -124,21 +123,24 @@ standing, or consent of instructor.
 <a id="schedule">
 ## Course Schedule <a class="tiny-link" href="#">Top</a>
 
-<table>
-  <tr>
-    <th>Date</th>
-    <th>Day</th>
-    <th>Lec #</th>
-    <th>Topic</th>
-    <th>Assignment</th>
-    <th>Instructor</th>
-  </tr>
+<table class="table table-light">
+   <thead>
+     <tr class="table-primary">
+       <th scope="col">Date</th>
+       <th scope="col">Day</th>
+       <th scope="col">Lec #</th>
+       <th scope="col">Topic</th>
+       <th scope="col">Assignment</th>
+       <th scope="col">Instructor</th>
+     </tr>
+   </thead>
+   <tbody>
 {% for lec in site.data.schedule %}
 
   {% if lec.Lec %}
-  <tr class="lec">
+    <tr class="table-light">
   {% else %}
-  <tr class="nolec">
+    <tr class="table-gap">
   {% endif %}
     <td>{{ lec.Date }}</td>
     <td>{{ lec.Day }}</td>
@@ -160,8 +162,9 @@ standing, or consent of instructor.
         {% endif %}
     </td>
     <td>{{ lec.Instructor }}</td>
-  </tr>
+   </tr>
 {% endfor %}
+   </tbody>
 </table>
 
 <a id="the-instrument">
