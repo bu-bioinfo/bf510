@@ -17,11 +17,11 @@ modern manifestations, examines the harmful consequences on victims' health
 outcomes, and presents ideas, approaches, and practices to ameliorate and
 eradicate the presence of racism in our institutions.
 
-**Semester:** Spring 2022
+**Semester:** Fall 2022
 
-**Location:** BRB 115
+**Location:** CAS 426
 
-**Time:** Tues/Thursday 12.30pm-3.15pm EST
+**Time:** M/W/F  2.30pm-3.20pm EST
 
 <a id="contents"></a>Contents:
 * <a href="#instructors">Instructors</a>
@@ -45,10 +45,7 @@ Research Assistant Professor, Graduate Program in Bioinformatics
 
 * *Office Location:* Segre Lab (LSEB Room 331)
 * *Office Hours:*
-Tuesday after class until 4pm
-Weds 11AM-noon
-(Concurrent avaibility in zoom classroom for office hours)
-Appointments always welcome
+By Appointment
 
 * *Office Phone:* 617-353-0490 (needed for 3rd floor LSEB access)
 * *Email:* melosbor at BU dot edu
