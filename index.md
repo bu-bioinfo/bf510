@@ -51,7 +51,7 @@ By Appointment
 * *Email:* melosbor at BU dot edu
 * *Twitter:* @MelisaLKO
 
-###Teaching Fellow
+### Teaching Fellow
 Mae Rose Gott
    
 * *Office Location:*
