@@ -51,10 +51,11 @@ By Appointment
 * *Email:* melosbor at BU dot edu
 * *Twitter:* @MelisaLKO
 
-Teaching Fellow
+###Teaching Fellow
 Mae Rose Gott
+   
 * *Office Location:*
-*Email: gott at BU dot edu*
+* *Email: gott at BU dot edu*
 
 ### Co-instructors
 
@@ -62,7 +63,6 @@ Mae Rose Gott
 * Adam Labadorf (he/him) - labadorf at BU dot edu
 * TJ McKenna (he/him)
 * Theresa Rueger (she/her)
-* * Fred Wasserman (he/him)
 
 <a id="objectives">
 ## Course Objectives <a class="tiny-link" href="#">Top</a>
