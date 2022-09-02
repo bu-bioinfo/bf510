@@ -19,7 +19,7 @@ eradicate the presence of racism in our institutions.
 
 **Semester:** Fall 2022
 
-**Location:** CAS 426
+**Location:** CAS 426 (685-725 Comm Ave)
 
 **Time:** M/W/F  2.30pm-3.20pm EST
 
@@ -51,10 +51,10 @@ By Appointment
 * *Email:* melosbor at BU dot edu
 * *Twitter:* @MelisaLKO
 
-### Teaching Fellow
-NONE for Spring 2022
+Teaching Fellow
+Mae Rose Gott
 * *Office Location:*
-*  *Email:*
+*Email: gott at BU dot edu*
 
 ### Co-instructors
 
@@ -62,7 +62,7 @@ NONE for Spring 2022
 * Adam Labadorf (he/him) - labadorf at BU dot edu
 * TJ McKenna (he/him)
 * Theresa Rueger (she/her)
-* Fred Wasserman (he/him)
+* * Fred Wasserman (he/him)
 
 <a id="objectives">
 ## Course Objectives <a class="tiny-link" href="#">Top</a>
@@ -347,16 +347,17 @@ exams, etc.) are similarly not permitted to be used or posted.
 We are all in this together, and we are committed to offering the best learning
 experience possible given the need for safety. To do this, we need your help.
 We must all be responsible and respectful. Faculty, staff, and teaching fellows
-will wear masks during class and other meetings to protect you; and we expect
-you to do the same. If you show up without a mask, you will be asked to leave.
-If you refuse, the class or meeting will be dismissed in order to protect
-everyone. We also require that you follow the safety practices recommended by
+will wear masks during class and other meetings to protect you.  While masks are 
+not required in classrooms (per University policy), the University recommends
+that people, especially those at risk of serious infection, use high-quality masks
+in crowded locations or if they’ve been exposed to someone with COVID.  We also ask 
+that you follow the safety practices recommended by
 the CDC outside the classroom, including all state and university guidelines
 regarding sheltering in place while feeling ill, testing, quarantining, social
 contacts, and gatherings. If you cannot follow these guidelines, be responsible
 and respectful: do not show up for in-person learning. Do not put your
-classmates, staff and instructors in danger. Do your learning remotely to make
-it possible for us to safely offer in-person learning to others.
+classmates, staff and instructors in danger. We will work to our utmost to 
+accomodate you if you need to miss an in-person session due to illness.
 
 ### Copyright Laws and Protection
 
