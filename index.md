@@ -358,6 +358,8 @@ contacts, and gatherings. If you cannot follow these guidelines, be responsible
 and respectful: do not show up for in-person learning. Do not put your
 classmates, staff and instructors in danger. We will work to our utmost to 
 accomodate you if you need to miss an in-person session due to illness.
+   
+See also: https://www.bu.edu/articles/2022/bu-fall-covid-and-monkeypox-protocols/   
 
 ### Copyright Laws and Protection
 
