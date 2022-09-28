@@ -19,37 +19,33 @@ podcast
 [https://www.npr.org/2020/09/18/914465793/ice-a-whistleblower-and-forced-sterilization](https://www.npr.org/2020/09/18/914465793/ice-a-whistleblower-and-forced-sterilization)
  
 1960s forced sterilization of Latin women in LA (article about documentary):
-https://www.nbcnews.com/news/latino/no-m-s-beb-s-looks-back-l-mexican-moms-n505256
+[https://www.nbcnews.com/news/latino/no-m-s-beb-s-looks-back-l-mexican-moms-n505256](https://www.nbcnews.com/news/latino/no-m-s-beb-s-looks-back-l-mexican-moms-n505256)
  
 1920s supreme court case (podcast) - transcript in folder
-https://www.wnycstudios.org/podcasts/radiolab/articles/g-unfit
+[https://www.wnycstudios.org/podcasts/radiolab/articles/g-unfit](https://www.wnycstudios.org/podcasts/radiolab/articles/g-unfit)
  
 Planned parenthood founder (planned parenthood website and news page):
-https://www.plannedparenthood.org/about-us/who-we-are/our-history
-https://www.wsj.com/articles/planned-parenthood-and-sangers-eugenics-legacy-11619534012
+[https://www.plannedparenthood.org/about-us/who-we-are/our-history](https://www.plannedparenthood.org/about-us/who-we-are/our-history)
+[https://www.wsj.com/articles/planned-parenthood-and-sangers-eugenics-legacy-11619534012](https://www.wsj.com/articles/planned-parenthood-and-sangers-eugenics-legacy-11619534012)
 
 Podcast on building on the Linnaean foundation and reinforcing scientific racism- transcript in folder
-https://www.dopelabspodcast.com/podcast-episodes/lab-025-skin-deep
+[https://www.dopelabspodcast.com/podcast-episodes/lab-025-skin-deep](https://www.dopelabspodcast.com/podcast-episodes/lab-025-skin-deep)
 
+Chapter 8 - the Black Stork (from Medical Apartheid) (can be accessed via BU Library)
 
-Chapter 8 - the Black Stork (from Medical Apartheid)
+Newman 2018 essay: “Bartering from the Bench: A Tennessee Judge Prevents Reproduction of Social Undesirables; Historic Analysis of Involuntary Sterilization of African American Women”- in Perusall
 
-Newman 2018 essay: “Bartering from the Bench: A Tennessee Judge Prevents Reproduction of Social Undesirables; Historic Analysis of Involuntary Sterilization of African American Women”- in folder
-
-Bodmer et al. 2021 paper: “The outstanding scientist, R.A. Fisher: his views on eugenics and race”- in folder
+Bodmer et al. 2021 paper: “The outstanding scientist, R.A. Fisher: his views on eugenics and race”- in Perusall
 
 Harvard’s eugenics era
-https://www.harvardmagazine.com/2016/03/harvards-eugenics-era
+[https://www.harvardmagazine.com/2016/03/harvards-eugenics-era](https://www.harvardmagazine.com/2016/03/harvards-eugenics-era)
 
-Podcast on race and intelligence - transcript in folder
-http://speakingofrace.ua.edu/podcast/race-and-intelligence-part-i
-
-Podcast on Franz Boas - can’t get transcript, use as background reading?
-http://speakingofrace.ua.edu/podcast/franz-boas-and-race
+Podcast on race and intelligence - transcript in Perusall
+[http://speakingofrace.ua.edu/podcast/race-and-intelligence-part-i](http://speakingofrace.ua.edu/podcast/race-and-intelligence-part-i)
 
 University College London and Galton’s legacy
-https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2019.01275.x
+[https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2019.01275.x](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2019.01275.x)
 
 New Yorker article on behavioural geneticist Kathryn Paige Harden “Can progressives be convinced that genetics matters” 
-https://www.newyorker.com/magazine/2021/09/13/can-progressives-be-convinced-that-genetics-matters
+[https://www.newyorker.com/magazine/2021/09/13/can-progressives-be-convinced-that-genetics-matters](https://www.newyorker.com/magazine/2021/09/13/can-progressives-be-convinced-that-genetics-matters)
 
