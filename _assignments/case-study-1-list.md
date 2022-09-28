@@ -1,16 +1,13 @@
 ---
 ---
 
-# Test Case Study 1 List
+# CASE STUDIES ON GENES AND EUGENICS
 
-CASE STUDIES ON GENES AND EUGENICS
+NEW 2022- Zhang, M., Wu, S., Du, S. et al. Genetic variants underlying differences in facial morphology in East Asian and European populations. Nat Genet 54, 403–411 (2022). https://doi.org/10.1038/s41588-022-01038-7
 
-NEW- Zhang, M., Wu, S., Du, S. et al. Genetic variants underlying differences in facial morphology in East Asian and European populations. Nat Genet 54, 403–411 (2022). https://doi.org/10.1038/s41588-022-01038-7
+NEW 2022- The promise and peril of the new science of social genomics.  https://www.nature.com/articles/d41586-019-03171-6
 
-NEW- The promise and peril of the new science of social genomics
-
-NEW-A polygenic score for educational attainment partially predicts voter turnout
-
+NEW 2022 -A polygenic score for educational attainment partially predicts voter turnout.  https://www.pnas.org/doi/10.1073/pnas.2022715118
 
 Very recent example; sterilizations in ICE facilities (news articles):
 https://www.brennancenter.org/our-work/analysis-opinion/forced-sterilization-accusations-ice-facility-fit-trumps-poor-treatment
