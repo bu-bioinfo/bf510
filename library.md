@@ -83,6 +83,7 @@
 * [Do US Black Women Experience Stress-Related Accelerated Biological Aging?](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC2861506/)
 * Video: [Geronimus, A.T. (October 25, 2019). Weathering and health inequity](https://www.youtube.com/watch?v=J_NmO9Sv7nE)
 * [Weathering and Allosteric Patterns on Load Scores](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1470581/)
+* [Williams 2018 - Stress and Mental Health](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6532404/pdf/nihms-1012456.pdf)
 
 **Annotation (Oct 28):**
 
@@ -91,7 +92,6 @@
 ## Week 8: Biological Effects of Chronic Stress (Melisa)
 
 **General Readings (Oct 31 & Nov 2):**
-* [Williams 2018 - Stress and Mental Health](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6532404/pdf/nihms-1012456.pdf)
 * [Scientific American - How Economic Inequity Inflicts Real Psychological Harm](https://www.scientificamerican.com/article/how-economic-inequality-inflicts-real-biological-harm/#reading-list)
 * [Fang et al 2020.  Are patients with hypertension and diabetes mellitus at increased risk for COVID-19 infection?]( https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6532404/pdf/nihms-1012456.pdf)
 
