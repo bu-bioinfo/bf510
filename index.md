@@ -95,7 +95,7 @@ In this class:
 * This room is a space for respectful dissent
 * The goal is not to agree - it is to gain a deeper understanding.
 
-Classroom ground rules:
+Classroom norms:
 * Listen actively - respect others when they are talking.
 * Speak from your own experience instead of generalizing ("I" instead of "they," "we,"
 and "you")
@@ -199,17 +199,16 @@ assigned to readings throughout the semester.
 submissions for parts of the final project and learn how to provide
 constructive feedback on a written abstracts. 
 
-**Final Project (20% of grade):**  Each student will complete a final project
-and report (~5 pages) about an aspect of systemic racism in health and science
+**Final Project (20% of grade):**  Each student (either individually or in a group) will complete a final project
+(~5 pages for written report, open to other formats as well) about an aspect of systemic racism in health and science
 of their own choosing.  The Final Project Assignment will be posted on the
-course website in the first weeks of class, and class time will be dedicated mid-semester to discussing
+course website and class time will be dedicated in weeks 9 and later to discussing
 project ideas and expectations.  The assignment will involve
-creating a short presentation (possible formats include a podcast, narrated
-poster, or YouTube video) and submission of a written report detailing the
-motivation and logic and research behind your project of choice.  Presentations
+creating a short presentation (possible formats include written paper, a podcast, narrated
+poster, or YouTube video) and submission of a proposal detailing the
+motivation and logic and research behind your project of choice.  Presentations about the project
 will be shared with the class (exact details will depend on formats preferred
-by students), and a written report will be due by final exam time.  Reports
-will be submitted via the Perusall site.
+by students), and the final project itself will be due during finals week.  Projects will be submitted via Dropbox.
 
 <a id="required-texts">
 ## Required Texts <a class="tiny-link" href="#">Top</a>
