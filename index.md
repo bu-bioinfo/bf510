@@ -209,6 +209,20 @@ poster, or YouTube video) and submission of a proposal detailing the
 motivation and logic and research behind your project of choice.  Presentations about the project
 will be shared with the class (exact details will depend on formats preferred
 by students), and the final project itself will be due during finals week.  Projects will be submitted via Dropbox.
+   
+**Final Project Due Dates**   
+   Proposal (5% final grade) 
+- due Nov 22nd (before Thanksgiving break)
+
+Presentation/Peer review (5% final grade)
+- due in class week of Dec 5th, each individual/group will present their project to the class (10 min) 
+- due in class week of Dec 5th, during class each student will review their peers’ presentations via a google form 
+
+Final Project (10%) 
+- due Monday Dec 19th in Finals week
+
+Total: 20% of Final Grade
+
 
 <a id="required-texts">
 ## Required Texts <a class="tiny-link" href="#">Top</a>
