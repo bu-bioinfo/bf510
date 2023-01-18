@@ -272,9 +272,9 @@ The instructors of this course pledge to:
 
 ### Attendance
 
-Attendance is not used as a criterion for assessment in this course. This a primarily in-person course and lectures and discussion are held at BRB115.  
-Zoom links and recordings will be made available during/after each session to accomodate the ongoing COVID situation until Feb 18, 2022 and as directed by BU policy.
-
+Per university policy, this class is held in person.  However, attendance is not used as a criterion for assessment in this course.  
+Zoom links and recordings will be made available during/after each session to accomodate all learners.
+   
 ### Policy on Religious Observances
 
 Due dates can be revised for documented
@@ -287,13 +287,8 @@ policy) so that accommodations can be made.
 
 ### Assignment Completion & Late Work
 
-Assignment can be submitted on their
-scheduled due dates by 11.59.59 EST via Perusalldropboxes or alternately they
-may be emailed to melosbor@bu.edu. Assessment and feedback will be provided
-via Perusall grading function. A late penalty of -10% per day will be
-assessed, though deadline extensions are available on a case by case basis (the
-earlier the instructor is informed of conflicts/extension needs, the better).
-
+Assignments will be submitted on BU Blackboard and are due by 11.59.59PM on the listed due date.  
+   
 ### Illness and Assignment Deadlines
 
 We hope that all of you will remain
