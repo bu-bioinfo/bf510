@@ -17,11 +17,11 @@ modern manifestations, examines the harmful consequences on victims' health
 outcomes, and presents ideas, approaches, and practices to ameliorate and
 eradicate the presence of racism in our institutions.
 
-**Semester:** Fall 2022
+**Semester:** Spring 2023
 
-**Location:** CAS 426 (685-725 Comm Ave)
+**Location:** BRB 121 (5 Cummington Mall)
 
-**Time:** M/W/F  2.30pm-3.20pm EST
+**Time:** Tues/Thurs 12.30PM - 2.30PM
 
 <a id="contents"></a>Contents:
 * <a href="#instructors">Instructors</a>
@@ -43,11 +43,9 @@ Research Scientist and Segrè Lab Manager, Bioinformatics Program
 
 Research Assistant Professor, Graduate Program in Bioinformatics
 
-* *Office Location:* Segre Lab (LSEB Room 331)
-* *Office Hours:*
-By Appointment
+* *Office Location:* Segre Lab (LSEB Room 101A)
+* *Office Hours:* By Appointment
 
-* *Office Phone:* 617-353-0490 (needed for 3rd floor LSEB access)
 * *Email:* melosbor at BU dot edu
 * *Twitter:* @MelisaLKO
 
@@ -188,42 +186,21 @@ description of The Instrument is found [here](the_instrument.html).
 <a id="grading">
 ## Grading <a class="tiny-link" href="#">Top</a>
 
-**Weekly annotations (50% of grade):** Students will submit applications of the
-instrument on weekly readings that will be used to assess participation and
-engagement.
+**Weekly annotations in Perusall (50% of grade):** Students will submit annotations of the
+weekly readings that will be used to assess participation and engagement.
 
 **Three case study reflections (20% of grade):** There are three case studies
 assigned to readings throughout the semester.
 
 **Peer review activities (10% of grade):** Students will review their peers’
-submissions for parts of the final project and learn how to provide
-constructive feedback on a written abstracts. 
+final project presentations during class time in the final week of the course.  Peer reviews will be submitted using a simple google form.
 
 **Final Project (20% of grade):**  Each student (either individually or in a group) will complete a final project
 (~5 pages for written report, open to other formats as well) about an aspect of systemic racism in health and science
-of their own choosing.  The Final Project Assignment will be posted on the
-course website and class time will be dedicated in weeks 9 and later to discussing
-project ideas and expectations.  The assignment will involve
-creating a short presentation (possible formats include written paper, a podcast, narrated
-poster, or YouTube video) and submission of a proposal detailing the
-motivation and logic and research behind your project of choice.  Presentations about the project
-will be shared with the class (exact details will depend on formats preferred
-by students), and the final project itself will be due during finals week.  Projects will be submitted via Dropbox.
+of their own choosing.  The Final Project Assignment will be posted on the course website and class time will be dedicated in weeks 9 and later to discussing
+project ideas and expectations.  The assignment will involve creating a short presentation (possible formats include written paper, a podcast, narrated
+poster, or YouTube video) and submission of a proposal detailing the motivation and logic and research behind your project of choice.  Presentations about the project will be shared with the class (exact details will depend on formats preferred by students), and the final project itself will be due during finals week.  Projects will be submitted via Dropbox.
    
-**Final Project Due Dates**   
-   Proposal (5% final grade) 
-- due Nov 22nd (before Thanksgiving break)
-
-Presentation/Peer review (5% final grade)
-- due in class week of Dec 5th, each individual/group will present their project to the class (10 min) 
-- due in class week of Dec 5th, during class each student will review their peers’ presentations via a google form 
-
-Final Project (10%) 
-- due Monday Dec 19th in Finals week
-
-Total: 20% of Final Grade
-
-
 <a id="required-texts">
 ## Required Texts <a class="tiny-link" href="#">Top</a>
 
@@ -242,9 +219,7 @@ Perusall website.
 
 ### Office Hours
 
-Scheduled for 2 hours weekly, based on best cohort
-availability. In person meetings with the instructor are always available upon
-request.
+By appointment.
 
 ### Office of Disability and Access Services
 
