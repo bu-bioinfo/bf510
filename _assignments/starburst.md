@@ -1,2 +1,2 @@
 Starburst Identity Chart
-https://docs.google.com/document/d/e/2PACX-1vTLm0FLzEBIcErLZpaenQtFsGYkBwiR6X1YBh1aPHRDFTVHqB4QIwT37n3GMhE_-8mQGLLVMcvjnXLk/pub
+[https://docs.google.com/document/d/1zvVnCCdIEMDQO6E213YqRvv9GR5TVh336RqoChJVgbg/edit?usp=sharing]
