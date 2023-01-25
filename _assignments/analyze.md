@@ -14,12 +14,12 @@ from the text examined in the [annotation phase](annotate.html):
 
 | Question                                                                                                                                                       | Example Answer For Davenport Passage                                                                                |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| What is the overall claim or thesis presented in this text?	                                                                                                         | The mixing of races will lead to decreased “peace and unity of ideals” on Earth                                     |
+| What is the overall claim or thesis presented in this text?	                                                                                                         | x                                 |
 | To whom is the claim of the article applied?  Is it a single person, or a group of people, or neither?  Is the target of the claim stated in the text explicitly or is it implied?                                                                                                                                  | x                                                                                                   |
 | Does the claim implicitly or explicitly include certain groups? Does the claim implicitly or explicitly exclude certain groups? If so, who? If not, what information do we have about the included/excluded groups?                                                                | x                                    |
 | Who is making the claim in the text?  Who are the authors and what are their backgrounds and areas of expertise?  (You may have to look beyond the source for this information).
 
-                                                                                           | x
+                                                                                           | x |
 | To what audience is this claim being made?  Is the intended audience clear?  Are there clues as to the background or level of expertise the audience must have to understand the text?	 | x |
 
 Note that **explicit quotations from the text are included** in some of the
