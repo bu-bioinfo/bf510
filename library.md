@@ -1,6 +1,6 @@
 # BF510 Reading Schedule
 
-## Week 1 - Is Racism Endemic in Science? (Melisa)
+## Week 1 Intro and Week 2 - Is Racism Endemic in Science? (Melisa)
 
 **General Readings**
 * Superior - Chapter 1
@@ -10,7 +10,7 @@
 * Davenport 1928- [Race Crossing in Jamaica](https://www-jstor-org.ezproxy.bu.edu/stable/7978?sid=primo?sid=primo)
 * Castle 1930 - [Race Harmonies](https://www-science-org.ezproxy.bu.edu/doi/10.1126/science.71.1850.603)
 
-## Week 2 - Race and Biology (Melisa)
+## Week 3 - Race and Biology (Melisa)
 
 **General Readings**
 
@@ -23,7 +23,7 @@
 * [Sickle Cell](https://www.nejm.org/doi/full/10.1056/NEJMp2022125)
 * [Global Distribution Sickle Cell](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3060623/)
 
-## Week 3: Genes and Context for Genetics (Melisa)
+## Week 4: Genes and Context for Genetics (Melisa)
 
 **General Readings**
 
@@ -36,7 +36,7 @@
 
 * [Case Study 1](https://docs.google.com/document/d/1pXKhi2cxX4dFaqmFyshDhL6luiXU4eVIQzw102IgBvk/edit?usp=sharing)
 
-## Week 4: Eugenics and Modern Race Science (Melisa)
+## Week 5: Eugenics and Modern Race Science (Melisa)
 
 **General Readings**
 
@@ -49,7 +49,7 @@
 
 * [1000 Genomes Project Consortium - A Global Reference for Human Genetic Variation (2015)](https://www.nature.com/articles/nature15393)
 
-## Week 5: The Genetics of IQ/ Correlation versus Causation (Adam)
+## Week 6: The Genetics of IQ/ Correlation versus Causation (Adam)
 
 **General Readings**
 
@@ -62,7 +62,7 @@
 
 * [Okbay et al: Genome-wide association study identifies 74 loci associated with educational attainment.](https://pubmed.ncbi.nlm.nih.gov/27225129/)
 
-## Week 6: Genes to Epigenetics Transition (Melisa)
+## Week 7: Genes to Epigenetics Transition (Melisa)
 
 **General Readings**
 
@@ -75,7 +75,7 @@
 * [Genetics of Hypertension in African Americans and Other of African Descent - 2019](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6429313/)
 
 
-## Week 7: Epigenetics and Context for Health Care (Melisa)
+## Week 8: Epigenetics and Context for Health Care (Melisa)
 
 **General Readings**
 
@@ -85,11 +85,11 @@
 * [Weathering and Allosteric Patterns on Load Scores](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1470581/)
 * [Williams 2018 - Stress and Mental Health](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6532404/pdf/nihms-1012456.pdf)
 
-**Annotation (Oct 28)**
+**Annotation**
 
 * [Case Study 2](https://docs.google.com/document/d/1lnL_VxKPsQPPU_C8F19StyaB9x91qMfA0wGVgba_z7g/edit)
 
-## Week 8: Biological Effects of Chronic Stress (Melisa)
+## Week 9: Biological Effects of Chronic Stress (Melisa)
 
 **General Readings**
 * [Scientific American - How Economic Inequity Inflicts Real Psychological Harm](https://www.scientificamerican.com/article/how-economic-inequality-inflicts-real-biological-harm/#reading-list)
@@ -99,7 +99,7 @@
 
 * [Schulz and Chaudhari 2015.  High Risk Populations: The Pimas of Arizona and Mexico](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4418458/)
 
-## Week 9: Data in Medicine/Algorithmic Bias (Adam)
+## Week 10: Data in Medicine/Algorithmic Bias (Adam)
 
 **General Readings**
 
@@ -110,7 +110,7 @@
 * [Separate and Unequal: Race-Based Algorithms and Implications for Nephrology](https://pubmed.ncbi.nlm.nih.gov/33510038/)
 * [Case Study 3](https://docs.google.com/document/d/1eJ4ab3P-ypcrlNZ_PT1saV7aAbPS95yr8PCShLGxmIs/edit)
 
-## Week 10: Racism in Healthcare - from Predisposition to Patient Treatment (Adam)
+## Week 11: Racism in Healthcare - from Predisposition to Patient Treatment (Adam)
 
 **General Readings**
 
@@ -121,9 +121,9 @@
 
 * [Vyas et al 2020 - Hidden in Plain Sight](https://www.nejm.org/doi/pdf/10.1056/NEJMms2004740?articleTools=true)
 
-## Week 11: Reversing the Biological Effects of Racism (Felicity) 
+## Week 12: Reversing the Biological Effects of Racism (Felicity) 
 
-## Week 12: Education and Change - Final Projects (Nov 21)  (TJ)
+## Week 13: Education and Change - Final Projects (Nov 21)  (TJ)
 
 **General Readings**
 
@@ -138,4 +138,4 @@
 
 
 
-## Week 13: In class project presentations
+## Week 14: In class project presentations
