@@ -45,7 +45,11 @@
 * [Lewontin 1972  - The apportionment of human diversity](https://link.springer.com/chapter/10.1007/978-1-4684-9063-3_14)
 * [Edwards 2003 - Human Genetic Diversity -  Lewontin’s Fallacy](https://onlinelibrary-wiley-com.ezproxy.bu.edu/share/WTSC5RRUZH9UYJ9BFIRB?target=10.1002/bies.10315)
 
-**Annotation**
+**CASE STUDY 1 DUE**
+Annotation (Perusall)
+Analysis and Synthesis (Blackboard)
+
+**Annotation (for Discussion)**
 
 * [1000 Genomes Project Consortium - A Global Reference for Human Genetic Variation (2015)](https://www.nature.com/articles/nature15393)
 
