@@ -200,15 +200,22 @@ Each student (either individually or in a group) will complete a final project
    
 **Purpose:**
 
-In this class, we cover many different themes that show how systemic racism is manifested in our institutions and society - especially in science and medicine.  It can be discouraging to here about how entrenched inequity is in modern systems and to learn about how extensive the history that established the system is. For the final project, we want you to think about what equitable science and medicine means to you and build a project that is around addressing or learning more about that topic.  You will apply the methods you used in your case studies to a larger project.  Select one of the themes covered in class, or pick one of your own, and select 3-5 articles or other sources to integrate together into a coherent synthesis project. Sources may include scientific articles, journalism, editorials, books, podcasts, or other media. The format of your report is flexible, ranging from traditional research paper to more creative forms as described below. This project aims to leverage your own experiences (personal and in this course) and create something that can be shared broadly (with your approval).
+In this class, we cover many different themes that show how systemic racism is manifested in our institutions and society - especially in science and medicine.  It can be discouraging to hear about how entrenched inequity is in modern systems and to learn about how extensive the history that established the system is. For the final project, we want you to think about what equitable science and medicine means to you and build a project that is around addressing or learning more about that topic.  You will apply the methods you used in your case studies to a larger project.  Select one of the themes covered in class, or pick one of your own, and select 3-5 articles or other sources to integrate together into a coherent synthesis project. Sources may include scientific articles, journalism, editorials, books, podcasts, or other media. The format of your report is flexible, ranging from traditional research paper to more creative forms as described below. This project aims to leverage your own experiences (personal and in this course) and create something that can be shared broadly (with your approval).
    
 **Potential Guiding Questions**
+
    What is the story you are telling with your synthesis? 
+   
    What are you using to tell your story? Data? Science? 
+   
    Who is your audience? 
+   
    What do you want your target audience to learn from your project?
+   
    A new way of thinking about your topic? Facts? A new way of looking at the world? A story they feel compelled to share?
+   
    How will you make sure your message is clear?
+   
    What examples are you choosing to use? Metaphors? Images? Audio or video excerpts? 
 
 **Tasks:**
@@ -219,31 +226,54 @@ In this class, we cover many different themes that show how systemic racism is m
    
 **Potential Formats:**
   
-Option 1: Traditional Research Paper (~5 pages for written report)
+**Option 1:** Traditional Research Paper (~5 pages for written report)
 
-   or
+   OR
 
-Option 2: Non-traditional Synthesis of Learning. Possibilities might include (but are not limited to) 
+**Option 2:** Non-traditional Synthesis of Learning. Possibilities might include (but are not limited to) 
 
-**Book: **Students create a children’s book, mini-textbook, handbook, comic, or other kind of book. These can be done on paper or created with apps like Book Creator.
-**Google Tour:** Using Google Tour Builder, students can create customized tours that combine photos, text, and targeted locations on Google Earth. These could be used to create tours that explore current events, historical periods or phenomena, science or geography topics, global research topics, students’ personal histories or future plans, or completely fictionalized stories that take place in various locations around the world. 
-**Infographic: **On paper or using a tool like Piktochart, have students create an infographic to represent or teach about an idea or set of data. 
+**Book:**
+Students create a children’s book, mini-textbook, handbook, comic, or other kind of book. These can be done on paper or created with apps like Book Creator.
+
+**Google Tour:**
+
+Using Google Tour Builder, students can create customized tours that combine photos, text, and targeted locations on Google Earth. These could be used to create tours that explore current events, historical periods or phenomena, science or geography topics, global research topics, students’ personal histories or future plans, or completely fictionalized stories that take place in various locations around the world. 
+
+**Infographic:**
+   
+On paper or using a tool like Piktochart, have students create an infographic to represent or teach about an idea or set of data. 
 Museum, Library, or Multimedia Collection: Have students curate a collection of artifacts representing a curricular concept, along with their own written captions, in a Google Slides presentation. Two fantastic resources for gathering these artifacts are the Smithsonian Learning Lab and the Google Arts & Culture website.
-**Podcast: **Have students use the recording tools mentioned in the “Audio” section above or an app like Anchor to record a podcast where they express an opinion, tell a story, or teach about a content-related topic. If students have a lot of material, they can break their podcast into multiple episodes and do a series instead.
-**Sketchnote:** Have students create a sketchnote to represent a content-related topic using paper or with a drawing app like Sketchpad.
-**Video:** Students can create their own videos as creative, informative, persuasive, or reflective pieces. These can be public service announcements, commercials, mini-documentaries, instructional videos, short feature films or animations, or TED-style talks. Tools for creating these can range from quick response platforms like Flipgrid, to screencasting tools listed in the previous section, a tool that creates stop motion videos like Stop Motion Studio, or simple online video creators like Adobe Spark. 
-**Website: **Using tools like Weebly, Wix, or Google Sites, have students develop a website to document a long-term project or teach about a particular idea.
+
+**Podcast:**
+
+Have students use the recording tools mentioned in the “Audio” section above or an app like Anchor to record a podcast where they express an opinion, tell a story, or teach about a content-related topic. If students have a lot of material, they can break their podcast into multiple episodes and do a series instead.
+
+**Sketchnote:** 
+Have students create a sketchnote to represent a content-related topic using paper or with a drawing app like Sketchpad.
+
+**Video:** 
+   
+Students can create their own videos as creative, informative, persuasive, or reflective pieces. These can be public service announcements, commercials, mini-documentaries, instructional videos, short feature films or animations, or TED-style talks. Tools for creating these can range from quick response platforms like Flipgrid, to screencasting tools listed in the previous section, a tool that creates stop motion videos like Stop Motion Studio, or simple online video creators like Adobe Spark. 
+   
+**Website:**
+   Using tools like Weebly, Wix, or Google Sites, have students develop a website to document a long-term project or teach about a particular idea.
    
 **Criteria for Success:**
 
    This project will...
+   
          ask you to show your knowledge 
+   
          encourage creativity, risk taking
+   
          require peer feedback, incorporation of your peers ideas & critiques
    
    This project will NOT...
+   
          have a standard checkbox rubric 
+   
          be a ‘recipe’ style assignment where all projects look the same 
+   
          be an assignment that only your professor sees and then gets filed away in a folder
 
 
