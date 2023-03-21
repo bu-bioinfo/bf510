@@ -224,61 +224,34 @@ In this class, we cover many different themes that show how systemic racism is m
    Peer review - Google form feedback to your peers regarding the in-class presentations (in class; bring a device to fill in google form in real time)
    Final Project Submission - Submit your final project (Blackboard)
    
-**Potential Formats:**
+**Potential Formats**
   
-**Option 1:** Traditional Research Paper (~5 pages for written report)
+Option 1: Traditional Research Paper (~5 pages for written report)
 
    OR
 
-**Option 2:** Non-traditional Synthesis of Learning. Possibilities might include (but are not limited to) 
+Option 2: Non-traditional Synthesis of Learning. Possibilities might include (but are not limited to) 
 
-**Book:**
-Students create a children’s book, mini-textbook, handbook, comic, or other kind of book. These can be done on paper or created with apps like Book Creator.
+**Book** - Students create a children’s book, mini-textbook, handbook, comic, or other kind of book. These can be done on paper or created with apps like Book Creator.
 
-**Google Tour:**
+**Google Tour** - Using Google Tour Builder, students can create customized tours that combine photos, text, and targeted locations on Google Earth. These could be used to create tours that explore current events, historical periods or phenomena, science or geography topics, global research topics, students’ personal histories or future plans, or completely fictionalized stories that take place in various locations around the world. 
 
-Using Google Tour Builder, students can create customized tours that combine photos, text, and targeted locations on Google Earth. These could be used to create tours that explore current events, historical periods or phenomena, science or geography topics, global research topics, students’ personal histories or future plans, or completely fictionalized stories that take place in various locations around the world. 
-
-**Infographic:**
-   
-On paper or using a tool like Piktochart, have students create an infographic to represent or teach about an idea or set of data. 
+**Infographic** - On paper or using a tool like Piktochart, have students create an infographic to represent or teach about an idea or set of data. 
 Museum, Library, or Multimedia Collection: Have students curate a collection of artifacts representing a curricular concept, along with their own written captions, in a Google Slides presentation. Two fantastic resources for gathering these artifacts are the Smithsonian Learning Lab and the Google Arts & Culture website.
 
-**Podcast:**
+**Podcast** - Have students use the recording tools mentioned in the “Audio” section above or an app like Anchor to record a podcast where they express an opinion, tell a story, or teach about a content-related topic. If students have a lot of material, they can break their podcast into multiple episodes and do a series instead.
 
-Have students use the recording tools mentioned in the “Audio” section above or an app like Anchor to record a podcast where they express an opinion, tell a story, or teach about a content-related topic. If students have a lot of material, they can break their podcast into multiple episodes and do a series instead.
+**Sketchnote** - Have students create a sketchnote to represent a content-related topic using paper or with a drawing app like Sketchpad.
 
-**Sketchnote:** 
-Have students create a sketchnote to represent a content-related topic using paper or with a drawing app like Sketchpad.
+**Video** - Students can create their own videos as creative, informative, persuasive, or reflective pieces. These can be public service announcements, commercials, mini-documentaries, instructional videos, short feature films or animations, or TED-style talks. Tools for creating these can range from quick response platforms like Flipgrid, to screencasting tools listed in the previous section, a tool that creates stop motion videos like Stop Motion Studio, or simple online video creators like Adobe Spark. 
+   
+**Website** - Using tools like Weebly, Wix, or Google Sites, have students develop a website to document a long-term project or teach about a particular idea.
+   
+**Criteria for Success**
 
-**Video:** 
+   This project will...(1) ask you to show your knowledge (2) encourage creativity, risk taking (3) require peer feedback, incorporation of your peers ideas & critiques
    
-Students can create their own videos as creative, informative, persuasive, or reflective pieces. These can be public service announcements, commercials, mini-documentaries, instructional videos, short feature films or animations, or TED-style talks. Tools for creating these can range from quick response platforms like Flipgrid, to screencasting tools listed in the previous section, a tool that creates stop motion videos like Stop Motion Studio, or simple online video creators like Adobe Spark. 
-   
-**Website:**
-   Using tools like Weebly, Wix, or Google Sites, have students develop a website to document a long-term project or teach about a particular idea.
-   
-**Criteria for Success:**
-
-   This project will...
-   
-         ask you to show your knowledge 
-   
-         encourage creativity, risk taking
-   
-         require peer feedback, incorporation of your peers ideas & critiques
-   
-   This project will NOT...
-   
-         have a standard checkbox rubric 
-   
-         be a ‘recipe’ style assignment where all projects look the same 
-   
-         be an assignment that only your professor sees and then gets filed away in a folder
-
-
-
-
+   This project will NOT... (1) have a standard checkbox rubric (2) be a ‘recipe’ style assignment where all projects look the same (3) be an assignment that only your professor sees and then gets filed away in a folder
 
    
 <a id="required-texts">
