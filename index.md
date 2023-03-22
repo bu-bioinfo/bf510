@@ -224,10 +224,14 @@ In this class, we cover many different themes that show how systemic racism is m
    What examples are you choosing to use? Metaphors? Images? Audio or video excerpts? 
 
 **Tasks:**
-   Project Proposal - 1 page summary of project topic (Blackboard)
-   Project Presentation to the class - short (10min) presentation to the class about your topic and takeaways (informal; last week of class)
-   Peer review - Google form feedback to your peers regarding the in-class presentations (in class; bring a device to fill in google form in real time)
-   Final Project Submission - Submit your final project (Blackboard)
+   
+   Project Proposal: 1 page summary of project topic (see Blackboard for submission dropbox and full guidelines)
+   
+   Project Presentation to the class: short (10min) presentation to the class about your topic and takeaways (informal; last week of class)
+   
+   Peer review: Google form feedback to your peers regarding the in-class presentations (in class; bring a device to fill in google form in real time)
+   
+   Final Project Submission: Submit your final project (Blackboard)
    
 **Potential Formats**
   
