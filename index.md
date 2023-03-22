@@ -30,7 +30,7 @@ eradicate the presence of racism in our institutions.
 * <a href="#schedule">Schedule</a>
 * <a href="#the-instrument">The Instrument</a>
 * <a href="#grading">Grading</a>
-* <a href="#final-project">Final-Project</a>
+* <a href="#final-project">Final Project</a>
 * <a href="#resources">Resources</a>
 * <a href="library.html">Course Library</a>
 
@@ -201,7 +201,7 @@ Each student (either individually or in a group) will complete a final project
 
    
 <a id="final-project">   
-## Final-Project <a class="tiny-link" href="#">Top</a>   
+## Final Project <a class="tiny-link" href="#">Top</a>   
    
 **Purpose:**
 
