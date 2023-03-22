@@ -200,8 +200,9 @@ final project presentations during class time in the final week of the course.  
 Each student (either individually or in a group) will complete a final project
 
    
-<a id="Final-Project">   
+<a id="final-project">   
 ## Final-Project <a class="tiny-link" href="#">Top</a>   
+   
 **Purpose:**
 
 In this class, we cover many different themes that show how systemic racism is manifested in our institutions and society - especially in science and medicine.  It can be discouraging to hear about how entrenched inequity is in modern systems and to learn about how extensive the history that established the system is. For the final project, we want you to think about what equitable science and medicine means to you and build a project that is around addressing or learning more about that topic.  You will apply the methods you used in your case studies to a larger project.  Select one of the themes covered in class, or pick one of your own, and select 3-5 articles or other sources to integrate together into a coherent synthesis project. Sources may include scientific articles, journalism, editorials, books, podcasts, or other media. The format of your report is flexible, ranging from traditional research paper to more creative forms as described below. This project aims to leverage your own experiences (personal and in this course) and create something that can be shared broadly (with your approval).
