@@ -103,7 +103,7 @@ Analysis and Synthesis (Blackboard)
 
 * [Schulz and Chaudhari 2015.  High Risk Populations: The Pimas of Arizona and Mexico](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4418458/)
 
-## Week 10: Data in Medicine/Algorithmic Bias (Adam)
+## Week 10: Data in Medicine (Adam)
 
 **General Readings**
 
@@ -111,10 +111,15 @@ Analysis and Synthesis (Blackboard)
 * [Machine Bias (Pro Publica)](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
 **Annotation**
-* [Separate and Unequal: Race-Based Algorithms and Implications for Nephrology](https://pubmed.ncbi.nlm.nih.gov/33510038/)
+Compass Risk Assessment
 * [Case Study 3](https://docs.google.com/document/d/1eJ4ab3P-ypcrlNZ_PT1saV7aAbPS95yr8PCShLGxmIs/edit)
 
-## Week 11: Racism in Healthcare - from Predisposition to Patient Treatment (Adam)
+## Week 11: Medical Data/Algorithmic Bia/Race Correction (Adam)
+
+**Annotation**
+* [Separate and Unequal: Race-Based Algorithms and Implications for Nephrology](https://pubmed.ncbi.nlm.nih.gov/33510038/)
+
+## Week 12: Reversing the Biological Effects of Racism (Felicity) 
 
 **General Readings**
 
@@ -125,9 +130,9 @@ Analysis and Synthesis (Blackboard)
 
 * [Vyas et al 2020 - Hidden in Plain Sight](https://www.nejm.org/doi/pdf/10.1056/NEJMms2004740?articleTools=true)
 
-## Week 12: Reversing the Biological Effects of Racism (Felicity) 
 
-## Week 13: Education and Change - Final Projects (Nov 21)  (TJ)
+
+## Week 13: Education and Change - (TJ)
 
 **General Readings**
 
